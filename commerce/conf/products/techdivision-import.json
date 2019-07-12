@@ -131,8 +131,8 @@
               "params" : [
                 {
                   "copy-images" : true,
-                  "media-directory" : "projects/sample-data/tmp",
-                  "images-file-directory" : "projects/sample-data/magento2-sample-data/pub/media/catalog/product"
+                  "media-directory" : "vendor/techdivision/import-sample-data/generic/media",
+                  "images-file-directory" : "target"
                 }
               ],
               "observers": [
@@ -285,8 +285,8 @@
                   "clean-up-category-product-relations" : true,
                   "clean-up-empty-image-columns" : true,
                   "clean-up-empty-columns" : [],
-                  "media-directory" : "projects/sample-data/tmp",
-                  "images-file-directory" : "projects/sample-data/magento2-sample-data/pub/media/catalog/product"
+                  "media-directory" : "vendor/techdivision/import-sample-data/generic/media",
+                  "images-file-directory" : "target"
                 }
               ],
               "observers": [
