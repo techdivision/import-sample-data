@@ -1,3 +1,13 @@
+# Version 1.0.3
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add composer.json files for Magento Commerce + Community versions 2.2.x + 2.3.x
+
 # Version 1.0.2
 
 ## Bugfixes
