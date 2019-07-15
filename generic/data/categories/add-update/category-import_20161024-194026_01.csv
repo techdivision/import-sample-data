@@ -37,3 +37,4 @@ store_view_code,attribute_set_code,path,name,is_active,is_anchor,include_in_menu
 "",Default,Default Category/Promotions/Pants,Pants,1,1,0,,pants-all,,,,,,,,,,,,,,,,,,,,,
 "",Default,Default Category/Promotions/Tees,Tees,1,1,0,,tees-all,,,,,,,,,,,,,,,,,,,,,
 "",Default,Default Category/Sale,Sale,1,1,1,Static block only,,,,,,,,,,,,,,,,,,,,,,
+"",Default,Default Category/Gift Cards,Gift Cards,1,1,1,Static block only,,,,,,,,,,,,,,,,,,,,,,

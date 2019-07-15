@@ -27,7 +27,7 @@
       "pdo-dsn": "mysql:host=127.0.1.4:9306;dbname=magento;charset=utf8",
       "username": "magento",
       "password": "magento"
-    }
+    },
     {
       "id": "commerce",
       "default" : false,

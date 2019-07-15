@@ -1,3 +1,13 @@
+# Version 1.0.4
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Fixed invalid path to images in category configuration + add wysiwyg media folder
+
 # Version 1.0.3
 
 ## Bugfixes

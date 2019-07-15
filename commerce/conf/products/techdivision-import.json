@@ -131,8 +131,8 @@
               "params" : [
                 {
                   "copy-images" : true,
-                  "media-directory" : "vendor/techdivision/import-sample-data/generic/media",
-                  "images-file-directory" : "target"
+                  "media-directory" : "target",
+                  "images-file-directory" : "vendor/techdivision/import-sample-data/generic/media/catalog/product"
                 }
               ],
               "observers": [
@@ -285,8 +285,8 @@
                   "clean-up-category-product-relations" : true,
                   "clean-up-empty-image-columns" : true,
                   "clean-up-empty-columns" : [],
-                  "media-directory" : "vendor/techdivision/import-sample-data/generic/media",
-                  "images-file-directory" : "target"
+                  "media-directory" : "target",
+                  "images-file-directory" : "vendor/techdivision/import-sample-data/generic/media/catalog/product"
                 }
               ],
               "observers": [

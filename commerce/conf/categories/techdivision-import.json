@@ -142,8 +142,8 @@
               "params" : [
                 {
                   "copy-images" : true,
-                  "media-directory" : "projects/sample-data/tmp",
-                  "images-file-directory" : "projects/sample-data/magento2-sample-data/pub/media/wysiwyg"
+                  "media-directory" : "target",
+                  "images-file-directory" : "vendor/techdivision/import-sample-data/generic/media/wysiwyg"
                 }
               ],
               "observers": [
@@ -224,8 +224,8 @@
               "params" : [
                 {
                   "copy-images" : true,
-                  "media-directory" : "projects/sample-data/tmp",
-                  "images-file-directory" : "projects/sample-data/magento2-sample-data/pub/media/wysiwyg"
+                  "media-directory" : "target",
+                  "images-file-directory" : "vendor/techdivision/import-sample-data/generic/media/wysiwyg"
                 }
               ],
               "observers": [
