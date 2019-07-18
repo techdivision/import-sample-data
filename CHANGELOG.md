@@ -1,3 +1,13 @@
+# Version 1.0.5
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Update configuration files for product import for Magento 2.3.2 cmopatibility
+
 # Version 1.0.4
 
 ## Bugfixes

@@ -1,8 +1,8 @@
 {
   "magento-edition": "EE",
-  "magento-version": "2.3.0",
+  "magento-version": "2.3.2",
   "operation-name" : "add-update",
-  "archive-artefacts" : false,
+  "archive-artefacts" : true,
   "debug-mode" : false,
   "source-dir" : "target",
   "target-dir" : "target",
@@ -88,6 +88,20 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "import_product_msi.subject.bunch",
+              "identifier": "files",
+              "file-resolver": {
+                "prefix": "inventory-msi"
+              },
+              "observers": [
+                {
+                  "import": [
+                    "import_product.observer.composite.msi.delete"
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -121,12 +135,6 @@
               "identifier": "files",
               "file-resolver": {
                 "prefix": "product-import"
-              },
-              "filesystem-adapter" : {
-                "id" : "import.adapter.filesystem.factory.league",
-                "adapter" : {
-                  "type" : "League\\Flysystem\\Adapter\\Local"
-                }
               },
               "params" : [
                 {
@@ -220,6 +228,20 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "import_product_msi.subject.bunch",
+              "identifier": "files",
+              "file-resolver": {
+                "prefix": "inventory-msi"
+              },
+              "observers": [
+                {
+                  "import": [
+                    "import_product.observer.composite.msi.replace"
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -271,12 +293,6 @@
               "identifier": "files",
               "file-resolver": {
                 "prefix": "product-import"
-              },
-              "filesystem-adapter" : {
-                "id" : "import.adapter.filesystem.factory.league",
-                "adapter" : {
-                  "type" : "League\\Flysystem\\Adapter\\Local"
-                }
               },
               "params" : [
                 {
@@ -371,6 +387,20 @@
                 {
                   "import": [
                     "import_product_url_rewrite.observer.url.rewrite.update"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "import_product_msi.subject.bunch",
+              "identifier": "files",
+              "file-resolver": {
+                "prefix": "inventory-msi"
+              },
+              "observers": [
+                {
+                  "import": [
+                    "import_product.observer.composite.msi.add_update"
                   ]
                 }
               ]
