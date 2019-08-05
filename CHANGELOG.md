@@ -1,3 +1,13 @@
+# Version 2.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Update to techdivision/import-product compatibility with version 16.0.0
+
 # Version 1.0.5
 
 ## Bugfixes

@@ -129,7 +129,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.msi.delete"
+                    "import_product_msi.observer.composite.delete"
                   ]
                 }
               ]
@@ -190,7 +190,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.variant.replace"
+                    "import_product_variant.observer.composite.replace"
                   ]
                 }
               ]
@@ -203,7 +203,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.bundle.replace"
+                    "import_product_bundle.observer.composite.replace"
                   ]
                 }
               ]
@@ -229,7 +229,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.media.replace"
+                    "import_product_media.observer.composite.replace"
                   ]
                 }
               ]
@@ -242,7 +242,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.link.replace"
+                    "import_product_link.observer.composite.replace"
                   ]
                 }
               ]
@@ -269,7 +269,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.msi.replace"
+                    "import_product_msi.observer.composite.replace"
                   ]
                 }
               ]
@@ -312,7 +312,15 @@
                   "copy-images" : true,
                   "clean-up-media-gallery" : true,
                   "clean-up-category-product-relations" : true,
-                  "clean-up-empty-columns" : [ "base_image", "small_image", "swatch_image", "thumbnail_image" ],
+                  "clean-up-empty-columns" : [
+                    "base_image", 
+                    "small_image", 
+                    "swatch_image", 
+                    "thumbnail_image",
+                    "special_price", 
+                    "special_price_from_date", 
+                    "special_price_to_date"
+                  ],
                   "media-directory" : "target",
                   "images-file-directory" : "vendor/techdivision/import-sample-data/generic/media/catalog/product"
                 }
@@ -333,7 +341,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.variant.add_update"
+                    "import_product_variant.observer.composite.add_update"
                   ]
                 }
               ]
@@ -346,7 +354,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.bundle.add_update"
+                    "import_product_bundle.observer.composite.add_update"
                   ]
                 }
               ]
@@ -372,7 +380,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.media.add_update"
+                    "import_product_media.observer.composite.add_update"
                   ]
                 }
               ]
@@ -385,7 +393,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.link.add_update"
+                    "import_product_link.observer.composite.add_update"
                   ]
                 }
               ]
@@ -412,7 +420,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_product.observer.composite.msi.add_update"
+                    "import_product_msi.observer.composite.add_update"
                   ]
                 }
               ]
