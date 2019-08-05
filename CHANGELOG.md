@@ -1,3 +1,13 @@
+# Version 2.0.1
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Update composer sample files to latest M2IF version
+
 # Version 2.0.0
 
 ## Bugfixes

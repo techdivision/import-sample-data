@@ -8,7 +8,7 @@
     ],
     "require": {
         "magento/product-enterprise-edition": "2.2.9",
-        "techdivision/import-cli-simple": "3.6.*",
+        "techdivision/import-cli-simple": "3.7.*",
         "composer/composer": "@alpha"
     },
     "require-dev": {
