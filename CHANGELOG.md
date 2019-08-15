@@ -1,3 +1,13 @@
+# Version 2.0.2
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add example images to some categories
+
 # Version 2.0.1
 
 ## Bugfixes
