@@ -172,7 +172,7 @@
               "id": "import_category_ee.subject.bunch",
               "identifier": "files",
               "file-resolver": {
-                "prefix": "url-rewrite"
+                "prefix": "category-url-rewrite"
               },
               "observers": [
                 {
@@ -254,7 +254,7 @@
               "id": "import_category_ee.subject.bunch",
               "identifier": "files",
               "file-resolver": {
-                "prefix": "url-rewrite"
+                "prefix": "category-url-rewrite"
               },
               "observers": [
                 {
