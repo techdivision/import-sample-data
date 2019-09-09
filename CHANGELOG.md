@@ -1,3 +1,13 @@
+# Version 2.0.4
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add example attribute CSV files for a multi storeview setup
+
 # Version 2.0.3
 
 ## Bugfixes
