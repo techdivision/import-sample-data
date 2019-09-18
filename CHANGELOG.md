@@ -1,3 +1,13 @@
+# Version 3.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add techdivision/import-product#146
+
 # Version 2.0.4
 
 ## Bugfixes

@@ -311,6 +311,7 @@
                 {
                   "copy-images" : true,
                   "clean-up-media-gallery" : true,
+                  "clean-up-website-product-relations" : true,
                   "clean-up-category-product-relations" : true,
                   "clean-up-empty-columns" : [
                     "base_image", 
