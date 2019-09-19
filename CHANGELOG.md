@@ -1,3 +1,13 @@
+# Version 3.0.1
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Remove unnecessary identifiers from configuration
+
 # Version 3.0.0
 
 ## Bugfixes
