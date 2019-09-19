@@ -69,7 +69,6 @@
           "subjects" : [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "category-import"
               },
@@ -77,7 +76,6 @@
             },
             {
               "id": "import_category.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "category-import"
               },
@@ -107,7 +105,6 @@
           "subjects": [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "category-import"
               },
@@ -115,7 +112,6 @@
             },
             {
               "id": "import_category.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "category-import"
               },
@@ -129,7 +125,6 @@
             },
             {
               "id": "import_category.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "category-create"
               },
@@ -156,7 +151,6 @@
             },
             {
               "id": "import_category.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "category-path"
               },
@@ -170,7 +164,6 @@
             },
             {
               "id": "import_category.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "category-url-rewrite"
               },
@@ -203,7 +196,6 @@
           "subjects": [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "category-import"
               },
@@ -211,7 +203,6 @@
             },
             {
               "id": "import_category.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "category-import"
               },
@@ -238,7 +229,6 @@
             },
             {
               "id": "import_category.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "category-path"
               },
@@ -252,7 +242,6 @@
             },
             {
               "id": "import_category.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "category-url-rewrite"
               },

@@ -69,7 +69,6 @@
           "subjects": [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "product-import-price"
               },
@@ -77,10 +76,18 @@
             },
             {
               "id": "import_product.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "product-import-price"
               },
+              "params" : [
+                {
+                  "clean-up-empty-columns" : [
+                    "special_price", 
+                    "special_price_from_date", 
+                    "special_price_to_date"
+                  ]
+                }
+              ],
               "observers": [
                 {
                   "import": [

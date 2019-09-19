@@ -69,7 +69,6 @@
           "subjects": [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "product-import-inventory"
               },
@@ -77,7 +76,6 @@
             },
             {
               "id": "import_product_ee.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "product-import-inventory"
               },

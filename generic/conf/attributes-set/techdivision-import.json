@@ -76,7 +76,6 @@
           "subjects" : [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "attribute-set-import"
               },
@@ -84,7 +83,6 @@
             },
             {
               "id": "import_attribute_set.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "attribute-set-import"
               },
@@ -114,7 +112,6 @@
           "subjects": [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "attribute-set-import"
               },
@@ -122,7 +119,6 @@
             },
             {
               "id": "import_attribute_set.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "attribute-set-import"
               },
@@ -152,7 +148,6 @@
           "subjects": [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "attribute-set-import"
               },
@@ -160,7 +155,6 @@
             },
             {
               "id": "import_attribute_set.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "attribute-set-import"
               },

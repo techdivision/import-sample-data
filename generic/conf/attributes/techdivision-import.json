@@ -76,7 +76,6 @@
           "subjects" : [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "attribute-import"
               },
@@ -84,7 +83,6 @@
             },
             {
               "id": "import_attribute.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "attribute-import"
               },
@@ -114,7 +112,6 @@
           "subjects": [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "attribute-import"
               },
@@ -122,7 +119,6 @@
             },
             {
               "id": "import_attribute.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "attribute-import"
               },
@@ -136,7 +132,6 @@
             },
             {
               "id": "import_attribute.subject.option",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "option-import"
               },
@@ -150,7 +145,6 @@
             },
             {
               "id": "import_attribute.subject.option",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "option-value-import"
               },
@@ -164,7 +158,6 @@
             },
             {
               "id": "import_attribute.subject.option",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "option-swatch-import"
               },
@@ -194,7 +187,6 @@
           "subjects": [
             {
               "id": "import.subject.move.files",
-              "identifier": "move-files",
               "file-resolver": {
                 "prefix": "attribute-import"
               },
@@ -202,7 +194,6 @@
             },
             {
               "id": "import_attribute.subject.bunch",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "attribute-import"
               },
@@ -216,7 +207,6 @@
             },
             {
               "id": "import_attribute.subject.option",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "option-import"
               },
@@ -230,7 +220,6 @@
             },
             {
               "id": "import_attribute.subject.option",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "option-value-import"
               },
@@ -244,7 +233,6 @@
             },
             {
               "id": "import_attribute.subject.option",
-              "identifier": "files",
               "file-resolver": {
                 "prefix": "option-swatch-import"
               },
