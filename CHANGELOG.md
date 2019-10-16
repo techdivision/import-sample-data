@@ -1,3 +1,13 @@
+# Version 3.0.2
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add CE/EE Composer configuration files for Magento 2.3.3
+
 # Version 3.0.1
 
 ## Bugfixes
