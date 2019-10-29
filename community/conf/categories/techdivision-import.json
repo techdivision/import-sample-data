@@ -111,6 +111,27 @@
               "ok-file-needed": true
             },
             {
+              "id": "import_category.subject.sortable.bunch",
+              "create-imported-file": false,
+              "file-resolver": {
+                "prefix": "category-import"
+              },
+              "listeners": [
+                {
+                  "subject.export.start": [
+                    "import_category.listener.sort.category"
+                  ]
+                }
+              ],
+              "observers": [
+                {
+                  "import": [
+                    "import_category.observer.category.copy"
+                  ]
+                }
+              ]
+            },
+            {
               "id": "import_category.subject.bunch",
               "file-resolver": {
                 "prefix": "category-import"
@@ -118,7 +139,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_category.observer.composite.replace"
+                    "import_category.observer.clear.category"
                   ]
                 }
               ]
@@ -205,6 +226,26 @@
               "id": "import_category.subject.bunch",
               "file-resolver": {
                 "prefix": "category-import"
+              },
+              "listeners": [
+                {
+                  "plugin.export.success": [
+                    "import_category.listener.sort.category"
+                  ]
+                }
+              ]
+              "observers": [
+                {
+                  "import": [
+                    "import_category.observer.category.copy"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "import_category.subject.bunch",
+              "file-resolver": {
+                "prefix": "category-create"
               },
               "filesystem-adapter" : {
                 "id" : "import.adapter.filesystem.factory.league",

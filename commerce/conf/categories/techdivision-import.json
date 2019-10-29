@@ -111,6 +111,27 @@
               "ok-file-needed": true
             },
             {
+              "id": "import_category_ee.subject.sortable.bunch",
+              "create-imported-file": false,
+              "file-resolver": {
+                "prefix": "category-import"
+              },
+              "listeners": [
+                {
+                  "subject.export.start": [
+                    "import_category.listener.sort.category"
+                  ]
+                }
+              ],
+              "observers": [
+                {
+                  "import": [
+                    "import_category.observer.category.copy"
+                  ]
+                }
+              ]
+            },
+            {
               "id": "import_category_ee.subject.bunch",
               "file-resolver": {
                 "prefix": "category-import"
@@ -118,7 +139,7 @@
               "observers": [
                 {
                   "import": [
-                    "import_category_ee.observer.composite.replace"
+                    "import_category_ee.observer.clear.category"
                   ]
                 }
               ]
@@ -202,9 +223,29 @@
               "ok-file-needed": true
             },
             {
-              "id": "import_category_ee.subject.bunch",
+              "id": "import_category_ee.subject.sortable.bunch",
               "file-resolver": {
                 "prefix": "category-import"
+              },
+              "listeners": [
+                {
+                  "subject.export.start": [
+                    "import_category.listener.sort.category"
+                  ]
+                }
+              ],
+              "observers": [
+                {
+                  "import": [
+                    "import_category.observer.category.copy"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "import_category_ee.subject.bunch",
+              "file-resolver": {
+                "prefix": "category-create"
               },
               "filesystem-adapter" : {
                 "id" : "import.adapter.filesystem.factory.league",

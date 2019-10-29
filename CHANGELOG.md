@@ -1,3 +1,13 @@
+# Version 3.0.3
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Update configuration files for functionality to sort categories by path and store view code to allow importing unsorted files
+
 # Version 3.0.2
 
 ## Bugfixes
