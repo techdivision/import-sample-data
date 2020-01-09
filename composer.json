@@ -3,7 +3,7 @@
     "description": "M2IF sample data for Magento 2 Community + Commerce Edition",
     "license": "OSL-3.0",
     "require": {
-        "php": ">=5.6.0"
+        "php": ">=7.1.0"
     },
     "authors": [
         {

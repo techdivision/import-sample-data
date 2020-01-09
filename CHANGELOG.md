@@ -1,3 +1,13 @@
+# Version 4.0.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Remove unnecessary configuration files because of changed configuration handling in 3.8.*
+
 # Version 3.0.2
 
 ## Bugfixes
