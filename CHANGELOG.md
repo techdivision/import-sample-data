@@ -1,3 +1,13 @@
+# Version 4.0.1
+
+## Bugfixes
+
+* Update product replace CSV files
+
+## Features
+
+* None
+
 # Version 4.0.0
 
 ## Bugfixes
