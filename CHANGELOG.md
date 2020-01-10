@@ -1,3 +1,13 @@
+# Version 4.0.3
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Update password hash in customer import file
+
 # Version 4.0.2
 
 ## Bugfixes
