@@ -1,3 +1,13 @@
+# Version 4.0.2
+
+## Bugfixes
+
+* Update customer CSV files
+
+## Features
+
+* None
+
 # Version 4.0.1
 
 ## Bugfixes
