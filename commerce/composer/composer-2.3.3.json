@@ -11,7 +11,7 @@
     },
     "require": {
         "magento/product-enterprise-edition": "2.3.3",
-        "techdivision/import-cli-simple": "3.7.*"
+        "techdivision/import-cli-simple": "3.8.*"
     },
     "require-dev": {
         "allure-framework/allure-phpunit": "~1.2.0",

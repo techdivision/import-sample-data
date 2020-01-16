@@ -1,3 +1,13 @@
+# Version 4.0.4
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add multi storeview product import CSV file + composer.json files for Magento CE/EE 2.2.10
+
 # Version 4.0.3
 
 ## Bugfixes
