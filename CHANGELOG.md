@@ -1,3 +1,13 @@
+# Version 4.0.5
+
+## Bugfixes
+
+* Update store view values in multi storeview product import CSV file to match with other CSV files
+
+## Features
+
+* None
+
 # Version 4.0.4
 
 ## Bugfixes
