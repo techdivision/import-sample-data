@@ -1,0 +1,12 @@
+store_view_code,attribute_set_code,path,name,is_active,is_anchor,include_in_menu,display_mode,url_key,description,image_path,meta_title,meta_keywords,meta_description,landing_page,position,path_in_store,custom_design,custom_design_from,custom_design_to,page_layout,custom_layout_update,available_sort_by,default_sort_by,custom_use_parent_settings,custom_apply_to_products,filter_price_range,created_at,updated_at,additional_attributes
+"",Default,My Root Category,My Root Category,1,1,1,Static block only,,,,,,,,,,,,,,,,,,,,,,
+"",Default,My Root Category/What's New,What's New,1,1,1,Static block only,,,,,,,,,,,,,,,,,,,,,,
+"",Default,My Root Category/Women,Women,1,0,1,Static block only,,,/womens/womens-main.jpg,,,,,,,,,,,"<referenceContainer name=""catalog.leftnav"" remove=""true""/>",,,,,,,,
+"",Default,My Root Category/Women/Tops,Tops,1,1,1,,tops-women,,,,,,,,,,,,,,,,,,,,,
+"",Default,My Root Category/Women/Tops/Jackets,Jackets,1,1,1,,jackets-women,,,,,,,,,,,,,,,,,,,,,
+"",Default,My Root Category/Women/Tops/Hoodies & Sweatshirts,Hoodies & Sweatshirts,1,1,1,,hoodies-and-sweatshirts-women,,,,,,,,,,,,,,,,,,,,,
+"",Default,My Root Category/Women/Tops/Tees,Tees,1,1,1,,tees-women,,,,,,,,,,,,,,,,,,,,,
+"",Default,My Root Category/Women/Tops/Bras & Tanks,Bras & Tanks,1,1,1,,tanks-women,,/womens/womens-category-tanks.jpg,,,,,,,,,,,,,,,,,,,
+"",Default,My Root Category/Women/Bottoms,Bottoms,1,1,1,,bottoms-women,,,,,,,,,,,,,,,,,,,,,
+"",Default,My Root Category/Women/Bottoms/Pants,Pants,1,1,1,,pants-women,,/womens/womens-category-pants.jpg,,,,,,,,,,,,,,,,,,,
+"",Default,My Root Category/Women/Bottoms/Shorts,Shorts,1,1,1,,shorts-women,,/womens/womens-category-shorts.jpg,,,,,,,,,,,,,,,,,,,

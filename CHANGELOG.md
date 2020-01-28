@@ -1,3 +1,14 @@
+# Version 4.0.6
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add Schema for Magento 2.3.4 EE
+* Add category CSV files to add root categories
+
 # Version 4.0.5
 
 ## Bugfixes
