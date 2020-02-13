@@ -1,3 +1,13 @@
+# Version 4.0.7
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add composer.json for Magento 2.3.4 CE + EE
+
 # Version 4.0.6
 
 ## Bugfixes
