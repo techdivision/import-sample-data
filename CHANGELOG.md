@@ -1,3 +1,13 @@
+# Version 4.0.8
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add product URL rewrite files
+
 # Version 4.0.7
 
 ## Bugfixes

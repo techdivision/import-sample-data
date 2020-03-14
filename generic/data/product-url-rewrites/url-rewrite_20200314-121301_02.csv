@@ -1,0 +1,501 @@
+original_data,sku,store_view_code,categories,product_websites,visibility,url_key
+,MS06-XS-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-xs-blue
+,MS06-XS-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-xs-green
+,MS06-XS-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-xs-yellow
+,MS06-S-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-s-blue
+,MS06-S-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-s-green
+,MS06-S-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-s-yellow
+,MS06-M-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-m-blue
+,MS06-M-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-m-green
+,MS06-M-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-m-yellow
+,MS06-L-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-l-blue
+,MS06-L-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-l-green
+,MS06-L-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-l-yellow
+,MS06-XL-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-xl-blue
+,MS06-XL-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-xl-green
+,MS06-XL-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",zoltan-gym-tee-xl-yellow
+,MS01-XS-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-xs-black
+,MS01-XS-Brown,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-xs-brown
+,MS01-XS-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-xs-yellow
+,MS01-S-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-s-black
+,MS01-S-Brown,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-s-brown
+,MS01-S-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-s-yellow
+,MS01-M-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-m-black
+,MS01-M-Brown,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-m-brown
+,MS01-M-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-m-yellow
+,MS01-L-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-l-black
+,MS01-L-Brown,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-l-brown
+,MS01-L-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-l-yellow
+,MS01-XL-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-xl-black
+,MS01-XL-Brown,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-xl-brown
+,MS01-XL-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",aero-daily-fitness-tee-xl-yellow
+,MS02-XS-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-xs-black
+,MS02-XS-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-xs-blue
+,MS02-XS-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-xs-gray
+,MS02-S-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-s-black
+,MS02-S-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-s-blue
+,MS02-S-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-s-gray
+,MS02-M-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-m-black
+,MS02-M-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-m-blue
+,MS02-M-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-m-gray
+,MS02-L-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-l-black
+,MS02-L-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-l-blue
+,MS02-L-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-l-gray
+,MS02-XL-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-xl-black
+,MS02-XL-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-xl-blue
+,MS02-XL-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-v-neck-xl-gray
+,MS10-XS-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-xs-black
+,MS10-XS-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-xs-blue
+,MS10-XS-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-xs-red
+,MS10-S-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-s-black
+,MS10-S-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-s-blue
+,MS10-S-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-s-red
+,MS10-M-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-m-black
+,MS10-M-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-m-blue
+,MS10-M-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-m-red
+,MS10-L-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-l-black
+,MS10-L-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-l-blue
+,MS10-L-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-l-red
+,MS10-XL-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-xl-black
+,MS10-XL-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-xl-blue
+,MS10-XL-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",logan-heattec-reg-tee-xl-red
+,MS07-XS-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-xs-black
+,MS07-XS-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-xs-green
+,MS07-XS-White,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-xs-white
+,MS07-S-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-s-black
+,MS07-S-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-s-green
+,MS07-S-White,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-s-white
+,MS07-M-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-m-black
+,MS07-M-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-m-green
+,MS07-M-White,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-m-white
+,MS07-L-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-l-black
+,MS07-L-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-l-green
+,MS07-L-White,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-l-white
+,MS07-XL-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-xl-black
+,MS07-XL-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-xl-green
+,MS07-XL-White,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",deion-long-sleeve-evercool-trade-tee-xl-white
+,MS08-XS-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-xs-black
+,MS08-XS-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-xs-blue
+,MS08-XS-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-xs-red
+,MS08-S-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-s-black
+,MS08-S-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-s-blue
+,MS08-S-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-s-red
+,MS08-M-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-m-black
+,MS08-M-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-m-blue
+,MS08-M-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-m-red
+,MS08-L-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-l-black
+,MS08-L-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-l-blue
+,MS08-L-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-l-red
+,MS08-XL-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-xl-black
+,MS08-XL-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-xl-blue
+,MS08-XL-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",strike-endurance-tee-xl-red
+,MT01-XS-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-xs-gray
+,MT01-XS-Orange,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-xs-orange
+,MT01-XS-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-xs-red
+,MT01-S-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-s-gray
+,MT01-S-Orange,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-s-orange
+,MT01-S-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-s-red
+,MT01-M-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-m-gray
+,MT01-M-Orange,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-m-orange
+,MT01-M-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-m-red
+,MT01-L-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-l-gray
+,MT01-L-Orange,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-l-orange
+,MT01-L-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-l-red
+,MT01-XL-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-xl-gray
+,MT01-XL-Orange,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-xl-orange
+,MT01-XL-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",erikssen-cooltech-trade-fitness-tank-xl-red
+,MT02-XS-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-xs-gray
+,MT02-XS-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-xs-red
+,MT02-XS-White,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-xs-white
+,MT02-S-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-s-gray
+,MT02-S-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-s-red
+,MT02-S-White,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-s-white
+,MT02-M-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-m-gray
+,MT02-M-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-m-red
+,MT02-M-White,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-m-white
+,MT02-L-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-l-gray
+,MT02-L-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-l-red
+,MT02-L-White,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-l-white
+,MT02-XL-Gray,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-xl-gray
+,MT02-XL-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-xl-red
+,MT02-XL-White,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tristan-endurance-tank-xl-white
+,MT03-XS-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-xs-blue
+,MT03-XS-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-xs-red
+,MT03-XS-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-xs-yellow
+,MT03-S-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-s-blue
+,MT03-S-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-s-red
+,MT03-S-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-s-yellow
+,MT03-M-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-m-blue
+,MT03-M-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-m-red
+,MT03-M-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-m-yellow
+,MT03-L-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-l-blue
+,MT03-L-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-l-red
+,MT03-L-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-l-yellow
+,MT03-XL-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-xl-blue
+,MT03-XL-Red,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-xl-red
+,MT03-XL-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",primo-endurance-tank-xl-yellow
+,MT04-XS-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",helios-endurance-tank-xs-blue
+,MT04-S-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",helios-endurance-tank-s-blue
+,MT04-M-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",helios-endurance-tank-m-blue
+,MT04-L-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",helios-endurance-tank-l-blue
+,MT04-XL-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",helios-endurance-tank-xl-blue
+,MT05-XS-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",rocco-gym-tank-xs-blue
+,MT05-S-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",rocco-gym-tank-s-blue
+,MT05-M-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",rocco-gym-tank-m-blue
+,MT05-L-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",rocco-gym-tank-l-blue
+,MT05-XL-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",rocco-gym-tank-xl-blue
+,MT06-XS-Black,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",vulcan-weightlifting-tank-xs-black
+,MT06-S-Black,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",vulcan-weightlifting-tank-s-black
+,MT06-M-Black,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",vulcan-weightlifting-tank-m-black
+,MT06-L-Black,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",vulcan-weightlifting-tank-l-black
+,MT06-XL-Black,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",vulcan-weightlifting-tank-xl-black
+,MT07-XS-Gray,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",argus-all-weather-tank-xs-gray
+,MT07-S-Gray,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",argus-all-weather-tank-s-gray
+,MT07-M-Gray,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",argus-all-weather-tank-m-gray
+,MT07-L-Gray,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",argus-all-weather-tank-l-gray
+,MT07-XL-Gray,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",argus-all-weather-tank-xl-gray
+,MT08-XS-Green,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sparta-gym-tank-xs-green
+,MT08-S-Green,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sparta-gym-tank-s-green
+,MT08-M-Green,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sparta-gym-tank-m-green
+,MT08-L-Green,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sparta-gym-tank-l-green
+,MT08-XL-Green,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sparta-gym-tank-xl-green
+,MT09-XS-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sinbad-fitness-tank-xs-blue
+,MT09-S-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sinbad-fitness-tank-s-blue
+,MT09-M-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sinbad-fitness-tank-m-blue
+,MT09-L-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sinbad-fitness-tank-l-blue
+,MT09-XL-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",sinbad-fitness-tank-xl-blue
+,MT10-XS-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tiberius-gym-tank-xs-yellow
+,MT10-S-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tiberius-gym-tank-s-yellow
+,MT10-M-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tiberius-gym-tank-m-yellow
+,MT10-L-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tiberius-gym-tank-l-yellow
+,MT10-XL-Yellow,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",tiberius-gym-tank-xl-yellow
+,MT11-XS-Blue,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",atlas-fitness-tank-xs-blue
+,MT11-S-Blue,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",atlas-fitness-tank-s-blue
+,MT11-M-Blue,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",atlas-fitness-tank-m-blue
+,MT11-L-Blue,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",atlas-fitness-tank-l-blue
+,MT11-XL-Blue,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",atlas-fitness-tank-xl-blue
+,MT12-XS-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",cassius-sparring-tank-xs-blue
+,MT12-S-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",cassius-sparring-tank-s-blue
+,MT12-M-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",cassius-sparring-tank-m-blue
+,MT12-L-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",cassius-sparring-tank-l-blue
+,MT12-XL-Blue,default,"Default Category/Men/Tops/Tanks",base,"Not Visible Individually",cassius-sparring-tank-xl-blue
+,MP01-32-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-32-black
+,MP01-32-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-32-gray
+,MP01-32-Purple,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-32-purple
+,MP01-33-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-33-black
+,MP01-33-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-33-gray
+,MP01-33-Purple,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-33-purple
+,MP01-34-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-34-black
+,MP01-34-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-34-gray
+,MP01-34-Purple,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-34-purple
+,MP01-36-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-36-black
+,MP01-36-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-36-gray
+,MP01-36-Purple,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",caesar-warm-up-pant-36-purple
+,MP02-32-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-32-blue
+,MP02-32-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-32-gray
+,MP02-32-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-32-red
+,MP02-33-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-33-blue
+,MP02-33-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-33-gray
+,MP02-33-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-33-red
+,MP02-34-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-34-blue
+,MP02-34-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-34-gray
+,MP02-34-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-34-red
+,MP02-36-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-36-blue
+,MP02-36-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-36-gray
+,MP02-36-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",viktor-lumatech-trade-pant-36-red
+,MP03-32-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-32-blue
+,MP03-32-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-32-green
+,MP03-32-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-32-red
+,MP03-33-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-33-blue
+,MP03-33-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-33-green
+,MP03-33-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-33-red
+,MP03-34-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-34-blue
+,MP03-34-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-34-green
+,MP03-34-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-34-red
+,MP03-36-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-36-blue
+,MP03-36-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-36-green
+,MP03-36-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",geo-insulated-jogging-pant-36-red
+,MP04-32-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-32-black
+,MP04-32-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-32-gray
+,MP04-32-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-32-green
+,MP04-33-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-33-black
+,MP04-33-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-33-gray
+,MP04-33-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-33-green
+,MP04-34-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-34-black
+,MP04-34-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-34-gray
+,MP04-34-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-34-green
+,MP04-36-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-36-black
+,MP04-36-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-36-gray
+,MP04-36-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",supernova-sport-pant-36-green
+,MP05-32-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-32-black
+,MP05-32-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-32-blue
+,MP05-32-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-32-green
+,MP05-33-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-33-black
+,MP05-33-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-33-blue
+,MP05-33-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-33-green
+,MP05-34-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-34-black
+,MP05-34-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-34-blue
+,MP05-34-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-34-green
+,MP05-36-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-36-black
+,MP05-36-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-36-blue
+,MP05-36-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",kratos-gym-pant-36-green
+,MP06-32-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-32-gray
+,MP06-32-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-32-green
+,MP06-32-Orange,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-32-orange
+,MP06-33-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-33-gray
+,MP06-33-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-33-green
+,MP06-33-Orange,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-33-orange
+,MP06-34-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-34-gray
+,MP06-34-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-34-green
+,MP06-34-Orange,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-34-orange
+,MP06-36-Gray,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-36-gray
+,MP06-36-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-36-green
+,MP06-36-Orange,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",mithra-warmup-pant-36-orange
+,MP07-32-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-32-black
+,MP07-32-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-32-blue
+,MP07-32-Purple,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-32-purple
+,MP07-33-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-33-black
+,MP07-33-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-33-blue
+,MP07-33-Purple,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-33-purple
+,MP07-34-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-34-black
+,MP07-34-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-34-blue
+,MP07-34-Purple,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-34-purple
+,MP07-36-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-36-black
+,MP07-36-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-36-blue
+,MP07-36-Purple,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",thorpe-track-pant-36-purple
+,MP08-32-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-32-blue
+,MP08-32-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-32-green
+,MP08-32-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-32-red
+,MP08-33-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-33-blue
+,MP08-33-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-33-green
+,MP08-33-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-33-red
+,MP08-34-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-34-blue
+,MP08-34-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-34-green
+,MP08-34-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-34-red
+,MP08-36-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-36-blue
+,MP08-36-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-36-green
+,MP08-36-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",zeppelin-yoga-pant-36-red
+,MP09-32-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-32-black
+,MP09-32-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-32-blue
+,MP09-32-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-32-red
+,MP09-33-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-33-black
+,MP09-33-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-33-blue
+,MP09-33-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-33-red
+,MP09-34-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-34-black
+,MP09-34-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-34-blue
+,MP09-34-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-34-red
+,MP09-36-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-36-black
+,MP09-36-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-36-blue
+,MP09-36-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",livingston-all-purpose-tight-36-red
+,MP10-32-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-32-black
+,MP10-32-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-32-blue
+,MP10-32-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-32-green
+,MP10-33-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-33-black
+,MP10-33-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-33-blue
+,MP10-33-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-33-green
+,MP10-34-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-34-black
+,MP10-34-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-34-blue
+,MP10-34-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-34-green
+,MP10-36-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-36-black
+,MP10-36-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-36-blue
+,MP10-36-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",orestes-yoga-pant-36-green
+,MP11-32-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-32-blue
+,MP11-32-Brown,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-32-brown
+,MP11-32-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-32-green
+,MP11-33-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-33-blue
+,MP11-33-Brown,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-33-brown
+,MP11-33-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-33-green
+,MP11-34-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-34-blue
+,MP11-34-Brown,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-34-brown
+,MP11-34-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-34-green
+,MP11-36-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-36-blue
+,MP11-36-Brown,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-36-brown
+,MP11-36-Green,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",aether-gym-pant-36-green
+,MP12-32-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-32-black
+,MP12-32-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-32-blue
+,MP12-32-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-32-red
+,MP12-33-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-33-black
+,MP12-33-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-33-blue
+,MP12-33-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-33-red
+,MP12-34-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-34-black
+,MP12-34-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-34-blue
+,MP12-34-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-34-red
+,MP12-36-Black,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-36-black
+,MP12-36-Blue,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-36-blue
+,MP12-36-Red,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cronus-yoga-pant-36-red
+,MSH01-32-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-32-black
+,MSH01-32-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-32-blue
+,MSH01-32-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-32-red
+,MSH01-33-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-33-black
+,MSH01-33-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-33-blue
+,MSH01-33-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-33-red
+,MSH01-34-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-34-black
+,MSH01-34-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-34-blue
+,MSH01-34-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-34-red
+,MSH01-36-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-36-black
+,MSH01-36-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-36-blue
+,MSH01-36-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",cobalt-cooltech-trade-fitness-short-36-red
+,MSH02-32-Black,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",apollo-running-short-32-black
+,MSH02-33-Black,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",apollo-running-short-33-black
+,MSH02-34-Black,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",apollo-running-short-34-black
+,MSH02-36-Black,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",apollo-running-short-36-black
+,MSH03-32-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-32-black
+,MSH03-32-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-32-blue
+,MSH03-32-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-32-green
+,MSH03-33-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-33-black
+,MSH03-33-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-33-blue
+,MSH03-33-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-33-green
+,MSH03-34-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-34-black
+,MSH03-34-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-34-blue
+,MSH03-34-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-34-green
+,MSH03-36-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-36-black
+,MSH03-36-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-36-blue
+,MSH03-36-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",meteor-workout-short-36-green
+,MSH04-32-Gray,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-32-gray
+,MSH04-32-Purple,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-32-purple
+,MSH04-32-Yellow,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-32-yellow
+,MSH04-33-Gray,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-33-gray
+,MSH04-33-Purple,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-33-purple
+,MSH04-33-Yellow,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-33-yellow
+,MSH04-34-Gray,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-34-gray
+,MSH04-34-Purple,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-34-purple
+,MSH04-34-Yellow,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-34-yellow
+,MSH04-36-Gray,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-36-gray
+,MSH04-36-Purple,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-36-purple
+,MSH04-36-Yellow,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",torque-power-short-36-yellow
+,MSH05-32-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-32-black
+,MSH05-32-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-32-blue
+,MSH05-32-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-32-gray
+,MSH05-33-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-33-black
+,MSH05-33-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-33-blue
+,MSH05-33-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-33-gray
+,MSH05-34-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-34-black
+,MSH05-34-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-34-blue
+,MSH05-34-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-34-gray
+,MSH05-36-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-36-black
+,MSH05-36-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-36-blue
+,MSH05-36-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",hawkeye-yoga-short-36-gray
+,MSH06-32-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-32-blue
+,MSH06-32-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-32-gray
+,MSH06-32-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-32-red
+,MSH06-33-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-33-blue
+,MSH06-33-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-33-gray
+,MSH06-33-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-33-red
+,MSH06-34-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-34-blue
+,MSH06-34-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-34-gray
+,MSH06-34-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-34-red
+,MSH06-36-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-36-blue
+,MSH06-36-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-36-gray
+,MSH06-36-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",lono-yoga-short-36-red
+,MSH07-32-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-32-black
+,MSH07-32-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-32-blue
+,MSH07-32-Purple,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-32-purple
+,MSH07-33-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-33-black
+,MSH07-33-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-33-blue
+,MSH07-33-Purple,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-33-purple
+,MSH07-34-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-34-black
+,MSH07-34-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-34-blue
+,MSH07-34-Purple,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-34-purple
+,MSH07-36-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-36-black
+,MSH07-36-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-36-blue
+,MSH07-36-Purple,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",rapha-sports-short-36-purple
+,MSH08-32-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-32-black
+,MSH08-32-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-32-blue
+,MSH08-32-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-32-green
+,MSH08-33-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-33-black
+,MSH08-33-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-33-blue
+,MSH08-33-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-33-green
+,MSH08-34-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-34-black
+,MSH08-34-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-34-blue
+,MSH08-34-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-34-green
+,MSH08-36-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-36-black
+,MSH08-36-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-36-blue
+,MSH08-36-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",orestes-fitness-short-36-green
+,MSH09-32-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-32-black
+,MSH09-32-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-32-blue
+,MSH09-32-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-32-green
+,MSH09-33-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-33-black
+,MSH09-33-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-33-blue
+,MSH09-33-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-33-green
+,MSH09-34-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-34-black
+,MSH09-34-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-34-blue
+,MSH09-34-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-34-green
+,MSH09-36-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-36-black
+,MSH09-36-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-36-blue
+,MSH09-36-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",troy-yoga-short-36-green
+,MSH10-32-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-32-blue
+,MSH10-32-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-32-green
+,MSH10-32-Purple,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-32-purple
+,MSH10-33-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-33-blue
+,MSH10-33-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-33-green
+,MSH10-33-Purple,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-33-purple
+,MSH10-34-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-34-blue
+,MSH10-34-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-34-green
+,MSH10-34-Purple,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-34-purple
+,MSH10-36-Blue,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-36-blue
+,MSH10-36-Green,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-36-green
+,MSH10-36-Purple,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",sol-active-short-36-purple
+,MSH11-32-Black,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-32-black
+,MSH11-32-Blue,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-32-blue
+,MSH11-32-Red,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-32-red
+,MSH11-33-Black,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-33-black
+,MSH11-33-Blue,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-33-blue
+,MSH11-33-Red,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-33-red
+,MSH11-34-Black,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-34-black
+,MSH11-34-Blue,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-34-blue
+,MSH11-34-Red,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-34-red
+,MSH11-36-Black,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-36-black
+,MSH11-36-Blue,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-36-blue
+,MSH11-36-Red,default,"Default Category/Men/Bottoms/Shorts",base,"Not Visible Individually",arcadio-gym-short-36-red
+,MSH12-32-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-32-black
+,MSH12-32-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-32-gray
+,MSH12-32-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-32-red
+,MSH12-33-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-33-black
+,MSH12-33-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-33-gray
+,MSH12-33-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-33-red
+,MSH12-34-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-34-black
+,MSH12-34-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-34-gray
+,MSH12-34-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-34-red
+,MSH12-36-Black,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-36-black
+,MSH12-36-Gray,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-36-gray
+,MSH12-36-Red,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Not Visible Individually",pierce-gym-short-36-red
+,WH01-XS-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-xs-green
+,WH01-XS-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-xs-orange
+,WH01-XS-Purple,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-xs-purple
+,WH01-S-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-s-green
+,WH01-S-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-s-orange
+,WH01-S-Purple,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-s-purple
+,WH01-M-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-m-green
+,WH01-M-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-m-orange
+,WH01-M-Purple,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-m-purple
+,WH01-L-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-l-green
+,WH01-L-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-l-orange
+,WH01-L-Purple,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-l-purple
+,WH01-XL-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-xl-green
+,WH01-XL-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-xl-orange
+,WH01-XL-Purple,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",mona-pullover-hoodlie-xl-purple
+,WH02-XS-Blue,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-xs-blue
+,WH02-XS-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-xs-green
+,WH02-XS-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-xs-orange
+,WH02-S-Blue,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-s-blue
+,WH02-S-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-s-green
+,WH02-S-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-s-orange
+,WH02-M-Blue,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-m-blue
+,WH02-M-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-m-green
+,WH02-M-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-m-orange
+,WH02-L-Blue,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-l-blue
+,WH02-L-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-l-green
+,WH02-L-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-l-orange
+,WH02-XL-Blue,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-xl-blue
+,WH02-XL-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-xl-green
+,WH02-XL-Orange,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",hera-pullover-hoodie-xl-orange
+,WH03-XS-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-xs-green
+,WH03-XS-Purple,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-xs-purple
+,WH03-XS-Red,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-xs-red
+,WH03-S-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-s-green
+,WH03-S-Purple,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-s-purple
+,WH03-S-Red,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-s-red
+,WH03-M-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-m-green
+,WH03-M-Purple,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-m-purple
+,WH03-M-Red,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-m-red
+,WH03-L-Green,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",autumn-pullie-l-green

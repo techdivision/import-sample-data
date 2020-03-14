@@ -1,0 +1,495 @@
+original_data,sku,store_view_code,categories,product_websites,visibility,url_key
+,24-MB01,default,"Default Category/Gear,Default Category/Gear/Bags",base,"Catalog, Search",joust-duffle-bag-s
+,24-MB04,default,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections",base,"Catalog, Search",strive-shoulder-pack
+,24-MB03,default,"Default Category/Gear,Default Category/Gear/Bags",base,"Catalog, Search",crown-summit-backpack
+,24-MB05,default,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,"Catalog, Search",wayfarer-messenger-bag
+,24-MB06,default,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,"Catalog, Search",rival-field-messenger
+,24-MB02,default,"Default Category/Gear,Default Category/Gear/Bags",base,"Catalog, Search",fusion-backpack
+,24-UB02,default,"Default Category/Gear,Default Category/Gear/Bags",base,"Catalog, Search",impulse-duffle
+,24-WB01,default,"Default Category/Gear,Default Category/Gear/Bags",base,"Catalog, Search",voyage-yoga-bag
+,24-WB02,default,"Default Category/Gear,Default Category/Gear/Bags",base,"Catalog, Search",compete-track-tote
+,24-WB05,default,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections",base,"Catalog, Search",savvy-shoulder-tote
+,24-WB06,default,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections",base,"Catalog, Search",endeavor-daytrip-backpack
+,24-WB03,default,"Default Category/Gear,Default Category/Gear/Bags",base,"Catalog, Search",driven-backpack
+,24-WB07,default,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,"Catalog, Search",overnight-duffle
+,24-WB04,default,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections",base,"Catalog, Search",push-it-messenger-bag
+,24-UG06,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Catalog, Search",affirm-water-bottle
+,24-UG07,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment,Default Category/Collections",base,"Catalog, Search",dual-handle-cardio-ball
+,24-UG04,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Catalog, Search",zing-jump-rope
+,24-UG02,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Catalog, Search",pursuit-lumaflex-trade-tone-band
+,24-UG05,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,"Catalog, Search",go-get-r-pushup-grips
+,24-UG01,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Catalog, Search",quest-lumaflex-trade-band
+,24-WG084,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Catalog, Search",sprite-foam-yoga-brick
+,24-WG088,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Catalog, Search",sprite-foam-roller
+,24-UG03,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Catalog, Search",harmony-lumaflex-trade-strength-band-kit
+,24-WG081-gray,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-stasis-ball-55-cm-gray
+,24-WG081-pink,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-stasis-ball-55-cm-pink
+,24-WG081-blue,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-stasis-ball-55-cm-blue
+,24-WG082-gray,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-stasis-ball-65-cm-gray
+,24-WG082-pink,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-stasis-ball-65-cm-pink
+,24-WG082-blue,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-stasis-ball-65-cm-blue
+,24-WG083-gray,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-stasis-ball-75-cm-gray
+,24-WG083-pink,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-stasis-ball-75-cm-pink
+,24-WG083-blue,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-stasis-ball-75-cm-blue
+,24-WG085,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-yoga-strap-6-foot
+,24-WG086,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-yoga-strap-8-foot
+,24-WG087,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Not Visible Individually",sprite-yoga-strap-10-foot
+,24-MG04,default,"Default Category/Gear,Default Category/Gear/Watches",base,"Catalog, Search",aim-analog-watch
+,24-MG01,default,"Default Category/Gear,Default Category/Gear/Watches",base,"Catalog, Search",endurance-watch
+,24-MG03,default,"Default Category/Gear,Default Category/Gear/Watches,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,"Catalog, Search",summit-watch
+,24-MG05,default,"Default Category/Gear,Default Category/Gear/Watches,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,"Catalog, Search",cruise-dual-analog-watch
+,24-MG02,default,"Default Category/Gear,Default Category/Gear/Watches,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,"Catalog, Search",dash-digital-watch
+,24-WG09,default,"Default Category/Gear,Default Category/Gear/Watches",base,"Catalog, Search",luma-analog-watch
+,24-WG01,default,"Default Category/Gear,Default Category/Gear/Watches",base,"Catalog, Search",bolo-sport-watch
+,24-WG03,default,"Default Category/Gear,Default Category/Gear/Watches",base,"Catalog, Search",clamber-watch
+,24-WG02,default,"Default Category/Gear,Default Category/Gear/Watches,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,"Catalog, Search",didi-sport-watch
+,MH01-XS-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-xs-black
+,MH01-XS-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-xs-gray
+,MH01-XS-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-xs-orange
+,MH01-S-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-s-black
+,MH01-S-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-s-gray
+,MH01-S-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-s-orange
+,MH01-M-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-m-black
+,MH01-M-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-m-gray
+,MH01-M-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-m-orange
+,MH01-L-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-l-black
+,MH01-L-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-l-gray
+,MH01-L-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-l-orange
+,MH01-XL-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-xl-black
+,MH01-XL-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-xl-gray
+,MH01-XL-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",chaz-kangeroo-hoodie-xl-orange
+,MH02-XS-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-xs-black
+,MH02-XS-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-xs-purple
+,MH02-XS-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-xs-red
+,MH02-S-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-s-black
+,MH02-S-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-s-purple
+,MH02-S-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-s-red
+,MH02-M-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-m-black
+,MH02-M-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-m-purple
+,MH02-M-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-m-red
+,MH02-L-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-l-black
+,MH02-L-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-l-purple
+,MH02-L-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-l-red
+,MH02-XL-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-xl-black
+,MH02-XL-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-xl-purple
+,MH02-XL-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",teton-pullover-hoodie-xl-red
+,MH03-XS-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-xs-black
+,MH03-XS-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-xs-blue
+,MH03-XS-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-xs-green
+,MH03-S-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-s-black
+,MH03-S-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-s-blue
+,MH03-S-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-s-green
+,MH03-M-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-m-black
+,MH03-M-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-m-blue
+,MH03-M-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-m-green
+,MH03-L-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-l-black
+,MH03-L-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-l-blue
+,MH03-L-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-l-green
+,MH03-XL-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-xl-black
+,MH03-XL-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-xl-blue
+,MH03-XL-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bruno-compete-hoodie-xl-green
+,MH04-XS-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-xs-green
+,MH04-XS-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-xs-white
+,MH04-XS-Yellow,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-xs-yellow
+,MH04-S-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-s-green
+,MH04-S-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-s-white
+,MH04-S-Yellow,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-s-yellow
+,MH04-M-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-m-green
+,MH04-M-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-m-white
+,MH04-M-Yellow,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-m-yellow
+,MH04-L-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-l-green
+,MH04-L-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-l-white
+,MH04-L-Yellow,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-l-yellow
+,MH04-XL-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-xl-green
+,MH04-XL-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-xl-white
+,MH04-XL-Yellow,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",frankie-sweatshirt-xl-yellow
+,MH05-XS-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-xs-green
+,MH05-XS-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-xs-red
+,MH05-XS-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-xs-white
+,MH05-S-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-s-green
+,MH05-S-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-s-red
+,MH05-S-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-s-white
+,MH05-M-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-m-green
+,MH05-M-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-m-red
+,MH05-M-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-m-white
+,MH05-L-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-l-green
+,MH05-L-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-l-red
+,MH05-L-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-l-white
+,MH05-XL-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-xl-green
+,MH05-XL-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-xl-red
+,MH05-XL-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hollister-backyard-sweatshirt-xl-white
+,MH06-XS-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-xs-black
+,MH06-XS-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-xs-blue
+,MH06-XS-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-xs-purple
+,MH06-S-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-s-black
+,MH06-S-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-s-blue
+,MH06-S-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-s-purple
+,MH06-M-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-m-black
+,MH06-M-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-m-blue
+,MH06-M-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-m-purple
+,MH06-L-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-l-black
+,MH06-L-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-l-blue
+,MH06-L-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-l-purple
+,MH06-XL-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-xl-black
+,MH06-XL-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-xl-blue
+,MH06-XL-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",stark-fundamental-hoodie-xl-purple
+,MH07-XS-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-xs-black
+,MH07-XS-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-xs-gray
+,MH07-XS-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-xs-green
+,MH07-S-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-s-black
+,MH07-S-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-s-gray
+,MH07-S-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-s-green
+,MH07-M-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-m-black
+,MH07-M-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-m-gray
+,MH07-M-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-m-green
+,MH07-L-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-l-black
+,MH07-L-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-l-gray
+,MH07-L-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-l-green
+,MH07-XL-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-xl-black
+,MH07-XL-Gray,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-xl-gray
+,MH07-XL-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",hero-hoodie-xl-green
+,MH08-XS-Brown,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-xs-brown
+,MH08-XS-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-xs-purple
+,MH08-XS-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-xs-red
+,MH08-S-Brown,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-s-brown
+,MH08-S-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-s-purple
+,MH08-S-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-s-red
+,MH08-M-Brown,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-m-brown
+,MH08-M-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-m-purple
+,MH08-M-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-m-red
+,MH08-L-Brown,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-l-brown
+,MH08-L-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-l-purple
+,MH08-L-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-l-red
+,MH08-XL-Brown,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-xl-brown
+,MH08-XL-Purple,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-xl-purple
+,MH08-XL-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",oslo-trek-hoodie-xl-red
+,MH09-XS-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-xs-blue
+,MH09-XS-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-xs-green
+,MH09-XS-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-xs-red
+,MH09-S-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-s-blue
+,MH09-S-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-s-green
+,MH09-S-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-s-red
+,MH09-M-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-m-blue
+,MH09-M-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-m-green
+,MH09-M-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-m-red
+,MH09-L-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-l-blue
+,MH09-L-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-l-green
+,MH09-L-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-l-red
+,MH09-XL-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-xl-blue
+,MH09-XL-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-xl-green
+,MH09-XL-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",abominable-hoodie-xl-red
+,MH10-XS-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-xs-black
+,MH10-XS-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-xs-blue
+,MH10-XS-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-xs-red
+,MH10-S-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-s-black
+,MH10-S-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-s-blue
+,MH10-S-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-s-red
+,MH10-M-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-m-black
+,MH10-M-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-m-blue
+,MH10-M-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-m-red
+,MH10-L-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-l-black
+,MH10-L-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-l-blue
+,MH10-L-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-l-red
+,MH10-XL-Black,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-xl-black
+,MH10-XL-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-xl-blue
+,MH10-XL-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",mach-street-sweatshirt-xl-red
+,MH11-XS-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-xs-orange
+,MH11-XS-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-xs-red
+,MH11-XS-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-xs-white
+,MH11-S-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-s-orange
+,MH11-S-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-s-red
+,MH11-S-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-s-white
+,MH11-M-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-m-orange
+,MH11-M-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-m-red
+,MH11-M-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-m-white
+,MH11-L-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-l-orange
+,MH11-L-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-l-red
+,MH11-L-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-l-white
+,MH11-XL-Orange,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-xl-orange
+,MH11-XL-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-xl-red
+,MH11-XL-White,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",grayson-crewneck-sweatshirt-xl-white
+,MH12-XS-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-xs-blue
+,MH12-XS-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-xs-green
+,MH12-XS-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-xs-red
+,MH12-S-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-s-blue
+,MH12-S-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-s-green
+,MH12-S-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-s-red
+,MH12-M-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-m-blue
+,MH12-M-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-m-green
+,MH12-M-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-m-red
+,MH12-L-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-l-blue
+,MH12-L-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-l-green
+,MH12-L-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-l-red
+,MH12-XL-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-xl-blue
+,MH12-XL-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-xl-green
+,MH12-XL-Red,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",ajax-full-zip-sweatshirt-xl-red
+,MH13-XS-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-xs-blue
+,MH13-XS-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-xs-green
+,MH13-XS-Lavender,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-xs-lavender
+,MH13-S-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-s-blue
+,MH13-S-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-s-green
+,MH13-S-Lavender,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-s-lavender
+,MH13-M-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-m-blue
+,MH13-M-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-m-green
+,MH13-M-Lavender,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-m-lavender
+,MH13-L-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-l-blue
+,MH13-L-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-l-green
+,MH13-L-Lavender,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-l-lavender
+,MH13-XL-Blue,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-xl-blue
+,MH13-XL-Green,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-xl-green
+,MH13-XL-Lavender,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Not Visible Individually",marco-lightweight-active-hoodie-xl-lavender
+,MJ01-XS-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-xs-orange
+,MJ01-XS-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-xs-red
+,MJ01-XS-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-xs-yellow
+,MJ01-S-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-s-orange
+,MJ01-S-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-s-red
+,MJ01-S-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-s-yellow
+,MJ01-M-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-m-orange
+,MJ01-M-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-m-red
+,MJ01-M-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-m-yellow
+,MJ01-L-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-l-orange
+,MJ01-L-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-l-red
+,MJ01-L-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-l-yellow
+,MJ01-XL-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-xl-orange
+,MJ01-XL-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-xl-red
+,MJ01-XL-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",beaumont-summit-kit-xl-yellow
+,MJ02-XS-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-xs-green
+,MJ02-XS-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-xs-orange
+,MJ02-XS-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-xs-red
+,MJ02-S-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-s-green
+,MJ02-S-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-s-orange
+,MJ02-S-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-s-red
+,MJ02-M-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-m-green
+,MJ02-M-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-m-orange
+,MJ02-M-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-m-red
+,MJ02-L-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-l-green
+,MJ02-L-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-l-orange
+,MJ02-L-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-l-red
+,MJ02-XL-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-xl-green
+,MJ02-XL-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-xl-orange
+,MJ02-XL-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",hyperion-elements-jacket-xl-red
+,MJ04-XS-Black,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-xs-black
+,MJ04-XS-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-xs-blue
+,MJ04-XS-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-xs-purple
+,MJ04-S-Black,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-s-black
+,MJ04-S-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-s-blue
+,MJ04-S-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-s-purple
+,MJ04-M-Black,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-m-black
+,MJ04-M-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-m-blue
+,MJ04-M-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-m-purple
+,MJ04-L-Black,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-l-black
+,MJ04-L-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-l-blue
+,MJ04-L-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-l-purple
+,MJ04-XL-Black,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-xl-black
+,MJ04-XL-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-xl-blue
+,MJ04-XL-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",kenobi-trail-jacket-xl-purple
+,MJ07-XS-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-xs-black
+,MJ07-XS-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-xs-red
+,MJ07-XS-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-xs-yellow
+,MJ07-S-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-s-black
+,MJ07-S-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-s-red
+,MJ07-S-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-s-yellow
+,MJ07-M-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-m-black
+,MJ07-M-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-m-red
+,MJ07-M-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-m-yellow
+,MJ07-L-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-l-black
+,MJ07-L-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-l-red
+,MJ07-L-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-l-yellow
+,MJ07-XL-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-xl-black
+,MJ07-XL-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-xl-red
+,MJ07-XL-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",orion-two-tone-fitted-jacket-xl-yellow
+,MJ08-XS-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-xs-blue
+,MJ08-XS-Gray,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-xs-gray
+,MJ08-XS-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-xs-green
+,MJ08-S-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-s-blue
+,MJ08-S-Gray,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-s-gray
+,MJ08-S-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-s-green
+,MJ08-M-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-m-blue
+,MJ08-M-Gray,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-m-gray
+,MJ08-M-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-m-green
+,MJ08-L-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-l-blue
+,MJ08-L-Gray,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-l-gray
+,MJ08-L-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-l-green
+,MJ08-XL-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-xl-blue
+,MJ08-XL-Gray,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-xl-gray
+,MJ08-XL-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",lando-gym-jacket-xl-green
+,MJ09-XS-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-xs-blue
+,MJ09-XS-White,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-xs-white
+,MJ09-XS-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-xs-yellow
+,MJ09-S-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-s-blue
+,MJ09-S-White,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-s-white
+,MJ09-S-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-s-yellow
+,MJ09-M-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-m-blue
+,MJ09-M-White,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-m-white
+,MJ09-M-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-m-yellow
+,MJ09-L-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-l-blue
+,MJ09-L-White,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-l-white
+,MJ09-L-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-l-yellow
+,MJ09-XL-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-xl-blue
+,MJ09-XL-White,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-xl-white
+,MJ09-XL-Yellow,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",taurus-elements-shell-xl-yellow
+,MJ10-XS-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-xs-black
+,MJ10-XS-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-xs-orange
+,MJ10-XS-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-xs-red
+,MJ10-S-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-s-black
+,MJ10-S-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-s-orange
+,MJ10-S-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-s-red
+,MJ10-M-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-m-black
+,MJ10-M-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-m-orange
+,MJ10-M-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-m-red
+,MJ10-L-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-l-black
+,MJ10-L-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-l-orange
+,MJ10-L-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-l-red
+,MJ10-XL-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-xl-black
+,MJ10-XL-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-xl-orange
+,MJ10-XL-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",mars-heattech-trade-pullover-xl-red
+,MJ11-XS-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-xs-black
+,MJ11-XS-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-xs-green
+,MJ11-XS-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-xs-red
+,MJ11-S-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-s-black
+,MJ11-S-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-s-green
+,MJ11-S-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-s-red
+,MJ11-M-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-m-black
+,MJ11-M-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-m-green
+,MJ11-M-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-m-red
+,MJ11-L-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-l-black
+,MJ11-L-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-l-green
+,MJ11-L-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-l-red
+,MJ11-XL-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-xl-black
+,MJ11-XL-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-xl-green
+,MJ11-XL-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",typhon-performance-fleece-lined-jacket-xl-red
+,MJ06-XS-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-xs-blue
+,MJ06-XS-Green,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-xs-green
+,MJ06-XS-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-xs-purple
+,MJ06-S-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-s-blue
+,MJ06-S-Green,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-s-green
+,MJ06-S-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-s-purple
+,MJ06-M-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-m-blue
+,MJ06-M-Green,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-m-green
+,MJ06-M-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-m-purple
+,MJ06-L-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-l-blue
+,MJ06-L-Green,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-l-green
+,MJ06-L-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-l-purple
+,MJ06-XL-Blue,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-xl-blue
+,MJ06-XL-Green,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-xl-green
+,MJ06-XL-Purple,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",jupiter-all-weather-trainer-xl-purple
+,MJ03-XS-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-xs-black
+,MJ03-XS-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-xs-green
+,MJ03-XS-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-xs-red
+,MJ03-S-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-s-black
+,MJ03-S-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-s-green
+,MJ03-S-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-s-red
+,MJ03-M-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-m-black
+,MJ03-M-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-m-green
+,MJ03-M-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-m-red
+,MJ03-L-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-l-black
+,MJ03-L-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-l-green
+,MJ03-L-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-l-red
+,MJ03-XL-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-xl-black
+,MJ03-XL-Green,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-xl-green
+,MJ03-XL-Red,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",montana-wind-jacket-xl-red
+,MJ12-XS-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-xs-black
+,MJ12-XS-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-xs-blue
+,MJ12-XS-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-xs-orange
+,MJ12-S-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-s-black
+,MJ12-S-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-s-blue
+,MJ12-S-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-s-orange
+,MJ12-M-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-m-black
+,MJ12-M-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-m-blue
+,MJ12-M-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-m-orange
+,MJ12-L-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-l-black
+,MJ12-L-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-l-blue
+,MJ12-L-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-l-orange
+,MJ12-XL-Black,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-xl-black
+,MJ12-XL-Blue,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-xl-blue
+,MJ12-XL-Orange,default,"Default Category/Men/Tops/Jackets",base,"Not Visible Individually",proteus-fitness-jackshirt-xl-orange
+,MS04-XS-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-xs-black
+,MS04-XS-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-xs-orange
+,MS04-XS-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-xs-red
+,MS04-S-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-s-black
+,MS04-S-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-s-orange
+,MS04-S-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-s-red
+,MS04-M-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-m-black
+,MS04-M-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-m-orange
+,MS04-M-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-m-red
+,MS04-L-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-l-black
+,MS04-L-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-l-orange
+,MS04-L-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-l-red
+,MS04-XL-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-xl-black
+,MS04-XL-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-xl-orange
+,MS04-XL-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",gobi-heattec-reg-tee-xl-red
+,MS05-XS-Black,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-xs-black
+,MS05-XS-Blue,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-xs-blue
+,MS05-XS-Purple,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-xs-purple
+,MS05-S-Black,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-s-black
+,MS05-S-Blue,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-s-blue
+,MS05-S-Purple,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-s-purple
+,MS05-M-Black,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-m-black
+,MS05-M-Blue,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-m-blue
+,MS05-M-Purple,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-m-purple
+,MS05-L-Black,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-l-black
+,MS05-L-Blue,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-l-blue
+,MS05-L-Purple,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-l-purple
+,MS05-XL-Black,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-xl-black
+,MS05-XL-Blue,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-xl-blue
+,MS05-XL-Purple,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",helios-evercool-trade-tee-xl-purple
+,MS09-XS-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-xs-black
+,MS09-XS-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-xs-blue
+,MS09-XS-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-xs-red
+,MS09-S-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-s-black
+,MS09-S-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-s-blue
+,MS09-S-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-s-red
+,MS09-M-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-m-black
+,MS09-M-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-m-blue
+,MS09-M-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-m-red
+,MS09-L-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-l-black
+,MS09-L-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-l-blue
+,MS09-L-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-l-red
+,MS09-XL-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-xl-black
+,MS09-XL-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-xl-blue
+,MS09-XL-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",ryker-lumatech-trade-tee-crew-neck-xl-red
+,MS11-XS-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-xs-blue
+,MS11-XS-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-xs-green
+,MS11-XS-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-xs-yellow
+,MS11-S-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-s-blue
+,MS11-S-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-s-green
+,MS11-S-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-s-yellow
+,MS11-M-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-m-blue
+,MS11-M-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-m-green
+,MS11-M-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-m-yellow
+,MS11-L-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-l-blue
+,MS11-L-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-l-green
+,MS11-L-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-l-yellow
+,MS11-XL-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-xl-blue
+,MS11-XL-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-xl-green
+,MS11-XL-Yellow,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-v-neck-xl-yellow
+,MS12-XS-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-xs-black
+,MS12-XS-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-xs-blue
+,MS12-XS-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-xs-red
+,MS12-S-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-s-black
+,MS12-S-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-s-blue
+,MS12-S-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-s-red
+,MS12-M-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-m-black
+,MS12-M-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-m-blue
+,MS12-M-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-m-red
+,MS12-L-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-l-black
+,MS12-L-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-l-blue
+,MS12-L-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-l-red
+,MS12-XL-Black,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-xl-black
+,MS12-XL-Blue,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-xl-blue
+,MS12-XL-Red,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",atomic-endurance-running-tee-crew-neck-xl-red
+,MS03-XS-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-xs-gray
+,MS03-XS-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-xs-green
+,MS03-XS-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-xs-orange
+,MS03-S-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-s-gray
+,MS03-S-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-s-green
+,MS03-S-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-s-orange
+,MS03-M-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-m-gray
+,MS03-M-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-m-green
+,MS03-M-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-m-orange
+,MS03-L-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-l-gray
+,MS03-L-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-l-green
+,MS03-L-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-l-orange
+,MS03-XL-Gray,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-xl-gray
+,MS03-XL-Green,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-xl-green
+,MS03-XL-Orange,default,"Default Category/Men/Tops/Tees",base,"Not Visible Individually",balboa-persistence-tee-xl-orange

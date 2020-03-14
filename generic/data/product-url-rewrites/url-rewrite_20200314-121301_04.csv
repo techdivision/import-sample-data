@@ -1,0 +1,548 @@
+original_data,sku,store_view_code,categories,product_websites,visibility,url_key
+,WB02-XS-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-xs-orange
+,WB02-XS-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-xs-yellow
+,WB02-S-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-s-blue
+,WB02-S-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-s-orange
+,WB02-S-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-s-yellow
+,WB02-M-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-m-blue
+,WB02-M-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-m-orange
+,WB02-M-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-m-yellow
+,WB02-L-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-l-blue
+,WB02-L-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-l-orange
+,WB02-L-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-l-yellow
+,WB02-XL-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-xl-blue
+,WB02-XL-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-xl-orange
+,WB02-XL-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",erica-evercool-sports-bra-xl-yellow
+,WB03-XS-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-xs-green
+,WB03-XS-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-xs-red
+,WB03-XS-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-xs-yellow
+,WB03-S-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-s-green
+,WB03-S-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-s-red
+,WB03-S-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-s-yellow
+,WB03-M-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-m-green
+,WB03-M-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-m-red
+,WB03-M-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-m-yellow
+,WB03-L-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-l-green
+,WB03-L-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-l-red
+,WB03-L-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-l-yellow
+,WB03-XL-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-xl-green
+,WB03-XL-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-xl-red
+,WB03-XL-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",celeste-sports-bra-xl-yellow
+,WB04-XS-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-xs-blue
+,WB04-XS-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-xs-purple
+,WB04-XS-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-xs-yellow
+,WB04-S-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-s-blue
+,WB04-S-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-s-purple
+,WB04-S-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-s-yellow
+,WB04-M-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-m-blue
+,WB04-M-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-m-purple
+,WB04-M-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-m-yellow
+,WB04-L-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-l-blue
+,WB04-L-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-l-purple
+,WB04-L-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-l-yellow
+,WB04-XL-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-xl-blue
+,WB04-XL-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-xl-purple
+,WB04-XL-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",prima-compete-bra-top-xl-yellow
+,WB05-XS-Black,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-xs-black
+,WB05-XS-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-xs-orange
+,WB05-XS-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-xs-purple
+,WB05-S-Black,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-s-black
+,WB05-S-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-s-orange
+,WB05-S-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-s-purple
+,WB05-M-Black,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-m-black
+,WB05-M-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-m-orange
+,WB05-M-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-m-purple
+,WB05-L-Black,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-l-black
+,WB05-L-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-l-orange
+,WB05-L-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-l-purple
+,WB05-XL-Black,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-xl-black
+,WB05-XL-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-xl-orange
+,WB05-XL-Purple,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",lucia-cross-fit-bra-xl-purple
+,WT01-XS-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-xs-black
+,WT01-XS-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-xs-blue
+,WT01-XS-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-xs-orange
+,WT01-S-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-s-black
+,WT01-S-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-s-blue
+,WT01-S-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-s-orange
+,WT01-M-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-m-black
+,WT01-M-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-m-blue
+,WT01-M-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-m-orange
+,WT01-L-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-l-black
+,WT01-L-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-l-blue
+,WT01-L-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-l-orange
+,WT01-XL-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-xl-black
+,WT01-XL-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-xl-blue
+,WT01-XL-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",bella-tank-xl-orange
+,WT02-XS-Green,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-xs-green
+,WT02-XS-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-xs-orange
+,WT02-XS-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-xs-yellow
+,WT02-S-Green,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-s-green
+,WT02-S-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-s-orange
+,WT02-S-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-s-yellow
+,WT02-M-Green,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-m-green
+,WT02-M-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-m-orange
+,WT02-M-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-m-yellow
+,WT02-L-Green,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-l-green
+,WT02-L-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-l-orange
+,WT02-L-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-l-yellow
+,WT02-XL-Green,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-xl-green
+,WT02-XL-Orange,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-xl-orange
+,WT02-XL-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",zoe-tank-xl-yellow
+,WT03-XS-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-xs-orange
+,WT03-XS-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-xs-purple
+,WT03-XS-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-xs-red
+,WT03-S-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-s-orange
+,WT03-S-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-s-purple
+,WT03-S-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-s-red
+,WT03-M-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-m-orange
+,WT03-M-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-m-purple
+,WT03-M-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-m-red
+,WT03-L-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-l-orange
+,WT03-L-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-l-purple
+,WT03-L-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-l-red
+,WT03-XL-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-xl-orange
+,WT03-XL-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-xl-purple
+,WT03-XL-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",nora-practice-tank-xl-red
+,WT04-XS-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-xs-blue
+,WT04-XS-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-xs-purple
+,WT04-XS-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-xs-red
+,WT04-S-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-s-blue
+,WT04-S-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-s-purple
+,WT04-S-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-s-red
+,WT04-M-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-m-blue
+,WT04-M-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-m-purple
+,WT04-M-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-m-red
+,WT04-L-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-l-blue
+,WT04-L-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-l-purple
+,WT04-L-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-l-red
+,WT04-XL-Blue,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-xl-blue
+,WT04-XL-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-xl-purple
+,WT04-XL-Red,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",nona-fitness-tank-xl-red
+,WT05-XS-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-xs-orange
+,WT05-XS-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-xs-purple
+,WT05-XS-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-xs-white
+,WT05-S-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-s-orange
+,WT05-S-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-s-purple
+,WT05-S-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-s-white
+,WT05-M-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-m-orange
+,WT05-M-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-m-purple
+,WT05-M-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-m-white
+,WT05-L-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-l-orange
+,WT05-L-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-l-purple
+,WT05-L-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-l-white
+,WT05-XL-Orange,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-xl-orange
+,WT05-XL-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-xl-purple
+,WT05-XL-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",leah-yoga-top-xl-white
+,WT06-XS-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-xs-blue
+,WT06-XS-Red,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-xs-red
+,WT06-XS-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-xs-yellow
+,WT06-S-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-s-blue
+,WT06-S-Red,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-s-red
+,WT06-S-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-s-yellow
+,WT06-M-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-m-blue
+,WT06-M-Red,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-m-red
+,WT06-M-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-m-yellow
+,WT06-L-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-l-blue
+,WT06-L-Red,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-l-red
+,WT06-L-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-l-yellow
+,WT06-XL-Blue,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-xl-blue
+,WT06-XL-Red,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-xl-red
+,WT06-XL-Yellow,default,"Default Category/Women/Tops/Bras & Tanks",base,"Not Visible Individually",chloe-compete-tank-xl-yellow
+,WT07-XS-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-xs-green
+,WT07-XS-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-xs-white
+,WT07-XS-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-xs-yellow
+,WT07-S-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-s-green
+,WT07-S-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-s-white
+,WT07-S-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-s-yellow
+,WT07-M-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-m-green
+,WT07-M-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-m-white
+,WT07-M-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-m-yellow
+,WT07-L-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-l-green
+,WT07-L-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-l-white
+,WT07-L-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-l-yellow
+,WT07-XL-Green,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-xl-green
+,WT07-XL-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-xl-white
+,WT07-XL-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",maya-tunic-xl-yellow
+,WT08-XS-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-xs-black
+,WT08-XS-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-xs-purple
+,WT08-XS-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-xs-yellow
+,WT08-S-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-s-black
+,WT08-S-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-s-purple
+,WT08-S-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-s-yellow
+,WT08-M-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-m-black
+,WT08-M-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-m-purple
+,WT08-M-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-m-yellow
+,WT08-L-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-l-black
+,WT08-L-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-l-purple
+,WT08-L-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-l-yellow
+,WT08-XL-Black,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-xl-black
+,WT08-XL-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-xl-purple
+,WT08-XL-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",antonia-racer-tank-xl-yellow
+,WT09-XS-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-xs-purple
+,WT09-XS-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-xs-white
+,WT09-XS-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-xs-yellow
+,WT09-S-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-s-purple
+,WT09-S-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-s-white
+,WT09-S-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-s-yellow
+,WT09-M-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-m-purple
+,WT09-M-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-m-white
+,WT09-M-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-m-yellow
+,WT09-L-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-l-purple
+,WT09-L-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-l-white
+,WT09-L-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-l-yellow
+,WT09-XL-Purple,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-xl-purple
+,WT09-XL-White,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-xl-white
+,WT09-XL-Yellow,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",breathe-easy-tank-xl-yellow
+,WP01-28-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",karmen-yoga-pant-28-black
+,WP01-28-Gray,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",karmen-yoga-pant-28-gray
+,WP01-28-White,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",karmen-yoga-pant-28-white
+,WP01-29-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",karmen-yoga-pant-29-black
+,WP01-29-Gray,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",karmen-yoga-pant-29-gray
+,WP01-29-White,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",karmen-yoga-pant-29-white
+,WP02-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",emma-leggings-28-blue
+,WP02-28-Purple,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",emma-leggings-28-purple
+,WP02-28-Red,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",emma-leggings-28-red
+,WP02-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",emma-leggings-29-blue
+,WP02-29-Purple,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",emma-leggings-29-purple
+,WP02-29-Red,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",emma-leggings-29-red
+,WP03-28-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",ida-workout-parachute-pant-28-black
+,WP03-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",ida-workout-parachute-pant-28-blue
+,WP03-28-Purple,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",ida-workout-parachute-pant-28-purple
+,WP03-29-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",ida-workout-parachute-pant-29-black
+,WP03-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",ida-workout-parachute-pant-29-blue
+,WP03-29-Purple,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",ida-workout-parachute-pant-29-purple
+,WP04-28-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cora-parachute-pant-28-black
+,WP04-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cora-parachute-pant-28-blue
+,WP04-28-White,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cora-parachute-pant-28-white
+,WP04-29-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cora-parachute-pant-29-black
+,WP04-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cora-parachute-pant-29-blue
+,WP04-29-White,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",cora-parachute-pant-29-white
+,WP05-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",sahara-leggings-28-blue
+,WP05-28-Gray,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",sahara-leggings-28-gray
+,WP05-28-Red,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",sahara-leggings-28-red
+,WP05-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",sahara-leggings-29-blue
+,WP05-29-Gray,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",sahara-leggings-29-gray
+,WP05-29-Red,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",sahara-leggings-29-red
+,WP06-28-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",diana-tights-28-black
+,WP06-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",diana-tights-28-blue
+,WP06-28-Orange,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",diana-tights-28-orange
+,WP06-29-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",diana-tights-29-black
+,WP06-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",diana-tights-29-blue
+,WP06-29-Orange,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",diana-tights-29-orange
+,WP07-28-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",aeon-capri-28-black
+,WP07-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",aeon-capri-28-blue
+,WP07-28-Orange,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",aeon-capri-28-orange
+,WP07-29-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",aeon-capri-29-black
+,WP07-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",aeon-capri-29-blue
+,WP07-29-Orange,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",aeon-capri-29-orange
+,WP08-28-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",bardot-capri-28-black
+,WP08-28-Green,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",bardot-capri-28-green
+,WP08-28-Red,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",bardot-capri-28-red
+,WP08-29-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",bardot-capri-29-black
+,WP08-29-Green,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",bardot-capri-29-green
+,WP08-29-Red,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",bardot-capri-29-red
+,WP09-28-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",carina-basic-capri-28-black
+,WP09-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",carina-basic-capri-28-blue
+,WP09-28-Purple,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",carina-basic-capri-28-purple
+,WP09-29-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",carina-basic-capri-29-black
+,WP09-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",carina-basic-capri-29-blue
+,WP09-29-Purple,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",carina-basic-capri-29-purple
+,WP10-28-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",daria-bikram-pant-28-black
+,WP10-28-Gray,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",daria-bikram-pant-28-gray
+,WP10-28-White,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",daria-bikram-pant-28-white
+,WP10-29-Black,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",daria-bikram-pant-29-black
+,WP10-29-Gray,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",daria-bikram-pant-29-gray
+,WP10-29-White,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",daria-bikram-pant-29-white
+,WP11-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",sylvia-capri-28-blue
+,WP11-28-Green,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",sylvia-capri-28-green
+,WP11-28-Red,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",sylvia-capri-28-red
+,WP11-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",sylvia-capri-29-blue
+,WP11-29-Green,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",sylvia-capri-29-green
+,WP11-29-Red,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Not Visible Individually",sylvia-capri-29-red
+,WP12-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",deirdre-relaxed-fit-capri-28-blue
+,WP12-28-Gray,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",deirdre-relaxed-fit-capri-28-gray
+,WP12-28-Green,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",deirdre-relaxed-fit-capri-28-green
+,WP12-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",deirdre-relaxed-fit-capri-29-blue
+,WP12-29-Gray,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",deirdre-relaxed-fit-capri-29-gray
+,WP12-29-Green,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",deirdre-relaxed-fit-capri-29-green
+,WP13-28-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",portia-capri-28-blue
+,WP13-28-Green,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",portia-capri-28-green
+,WP13-28-Orange,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",portia-capri-28-orange
+,WP13-29-Blue,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",portia-capri-29-blue
+,WP13-29-Green,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",portia-capri-29-green
+,WP13-29-Orange,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",portia-capri-29-orange
+,WSH01-28-Black,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-28-black
+,WSH01-28-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-28-green
+,WSH01-28-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-28-red
+,WSH01-29-Black,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-29-black
+,WSH01-29-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-29-green
+,WSH01-29-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-29-red
+,WSH01-30-Black,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-30-black
+,WSH01-30-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-30-green
+,WSH01-30-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-30-red
+,WSH01-31-Black,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-31-black
+,WSH01-31-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-31-green
+,WSH01-31-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-31-red
+,WSH01-32-Black,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-32-black
+,WSH01-32-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-32-green
+,WSH01-32-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",fiona-fitness-short-32-red
+,WSH02-28-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-28-gray
+,WSH02-28-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-28-orange
+,WSH02-28-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-28-yellow
+,WSH02-29-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-29-gray
+,WSH02-29-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-29-orange
+,WSH02-29-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-29-yellow
+,WSH02-30-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-30-gray
+,WSH02-30-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-30-orange
+,WSH02-30-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-30-yellow
+,WSH02-31-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-31-gray
+,WSH02-31-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-31-orange
+,WSH02-31-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-31-yellow
+,WSH02-32-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-32-gray
+,WSH02-32-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-32-orange
+,WSH02-32-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",maxima-drawstring-short-32-yellow
+,WSH03-28-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-28-blue
+,WSH03-28-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-28-gray
+,WSH03-28-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-28-orange
+,WSH03-29-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-29-blue
+,WSH03-29-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-29-gray
+,WSH03-29-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-29-orange
+,WSH03-30-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-30-blue
+,WSH03-30-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-30-gray
+,WSH03-30-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-30-orange
+,WSH03-31-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-31-blue
+,WSH03-31-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-31-gray
+,WSH03-31-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-31-orange
+,WSH03-32-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-32-blue
+,WSH03-32-Gray,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-32-gray
+,WSH03-32-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",gwen-drawstring-bike-short-32-orange
+,WSH04-28-Black,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-28-black
+,WSH04-28-Green,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-28-green
+,WSH04-28-Orange,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-28-orange
+,WSH04-29-Black,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-29-black
+,WSH04-29-Green,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-29-green
+,WSH04-29-Orange,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-29-orange
+,WSH04-30-Black,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-30-black
+,WSH04-30-Green,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-30-green
+,WSH04-30-Orange,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-30-orange
+,WSH04-31-Black,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-31-black
+,WSH04-31-Green,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-31-green
+,WSH04-31-Orange,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-31-orange
+,WSH04-32-Black,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-32-black
+,WSH04-32-Green,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-32-green
+,WSH04-32-Orange,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",artemis-running-short-32-orange
+,WSH05-28-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-28-blue
+,WSH05-28-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-28-purple
+,WSH05-28-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-28-yellow
+,WSH05-29-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-29-blue
+,WSH05-29-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-29-purple
+,WSH05-29-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-29-yellow
+,WSH05-30-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-30-blue
+,WSH05-30-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-30-purple
+,WSH05-30-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-30-yellow
+,WSH05-31-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-31-blue
+,WSH05-31-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-31-purple
+,WSH05-31-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-31-yellow
+,WSH05-32-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-32-blue
+,WSH05-32-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-32-purple
+,WSH05-32-Yellow,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Not Visible Individually",bess-yoga-short-32-yellow
+,WSH06-28-Gray,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",angel-light-running-short-28-gray
+,WSH06-28-Orange,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",angel-light-running-short-28-orange
+,WSH06-28-Purple,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",angel-light-running-short-28-purple
+,WSH06-29-Gray,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",angel-light-running-short-29-gray
+,WSH06-29-Orange,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",angel-light-running-short-29-orange
+,WSH06-29-Purple,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",angel-light-running-short-29-purple
+,WSH07-28-Black,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",echo-fit-compression-short-28-black
+,WSH07-28-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",echo-fit-compression-short-28-blue
+,WSH07-28-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",echo-fit-compression-short-28-purple
+,WSH07-29-Black,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",echo-fit-compression-short-29-black
+,WSH07-29-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",echo-fit-compression-short-29-blue
+,WSH07-29-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Not Visible Individually",echo-fit-compression-short-29-purple
+,WSH08-28-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",sybil-running-short-28-purple
+,WSH08-29-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",sybil-running-short-29-purple
+,WSH08-30-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",sybil-running-short-30-purple
+,WSH08-31-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",sybil-running-short-31-purple
+,WSH08-32-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Not Visible Individually",sybil-running-short-32-purple
+,WSH09-28-Gray,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",mimi-all-purpose-short-28-gray
+,WSH09-28-Green,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",mimi-all-purpose-short-28-green
+,WSH09-28-White,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",mimi-all-purpose-short-28-white
+,WSH09-29-Gray,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",mimi-all-purpose-short-29-gray
+,WSH09-29-Green,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",mimi-all-purpose-short-29-green
+,WSH09-29-White,default,"Default Category/Women/Bottoms/Shorts",base,"Not Visible Individually",mimi-all-purpose-short-29-white
+,WSH10-28-Black,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",ana-running-short-28-black
+,WSH10-28-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",ana-running-short-28-orange
+,WSH10-28-White,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",ana-running-short-28-white
+,WSH10-29-Black,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",ana-running-short-29-black
+,WSH10-29-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",ana-running-short-29-orange
+,WSH10-29-White,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Eco Friendly,Default Category",base,"Not Visible Individually",ana-running-short-29-white
+,WSH11-28-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",ina-compression-short-28-blue
+,WSH11-28-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",ina-compression-short-28-orange
+,WSH11-28-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",ina-compression-short-28-red
+,WSH11-29-Blue,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",ina-compression-short-29-blue
+,WSH11-29-Orange,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",ina-compression-short-29-orange
+,WSH11-29-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",ina-compression-short-29-red
+,WSH12-28-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-28-green
+,WSH12-28-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-28-purple
+,WSH12-28-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-28-red
+,WSH12-29-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-29-green
+,WSH12-29-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-29-purple
+,WSH12-29-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-29-red
+,WSH12-30-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-30-green
+,WSH12-30-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-30-purple
+,WSH12-30-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-30-red
+,WSH12-31-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-31-green
+,WSH12-31-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-31-purple
+,WSH12-31-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-31-red
+,WSH12-32-Green,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-32-green
+,WSH12-32-Purple,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-32-purple
+,WSH12-32-Red,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Not Visible Individually",erika-running-short-32-red
+,WS11,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",diva-gym-tee
+,WS12,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",radiant-tee
+,WS01,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category",base,"Catalog, Search",gwyn-endurance-tee
+,WS05,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category",base,"Catalog, Search",desiree-fitness-tee
+,WB01,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",electra-bra-top
+,WB02,default,"Default Category/Women/Tops/Bras & Tanks",base,"Catalog, Search",erica-evercool-sports-bra
+,WB03,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",celeste-sports-bra
+,WB04,default,"Default Category/Women/Tops/Bras & Tanks",base,"Catalog, Search",prima-compete-bra-top
+,WB05,default,"Default Category/Women/Tops/Bras & Tanks",base,"Catalog, Search",lucia-cross-fit-bra
+,WT01,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",bella-tank
+,WT02,default,"Default Category/Women/Tops/Bras & Tanks",base,"Catalog, Search",zoe-tank
+,WT03,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",nora-practice-tank
+,WT04,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",nona-fitness-tank
+,WT05,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",leah-yoga-top
+,WT06,default,"Default Category/Women/Tops/Bras & Tanks",base,"Catalog, Search",chloe-compete-tank
+,WT07,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",maya-tunic
+,WT08,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",antonia-racer-tank
+,WT09,default,"Default Category/Women/Tops/Bras & Tanks,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",breathe-easy-tank
+,WP01,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",karmen-yoga-pant
+,WP02,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",emma-leggings
+,WP03,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",ida-workout-parachute-pant
+,WP04,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Catalog, Search",cora-parachute-pant
+,WP05,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",sahara-leggings
+,WP06,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",diana-tights
+,WP07,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",aeon-capri
+,WP08,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Catalog, Search",bardot-capri
+,WP09,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Catalog, Search",carina-basic-capri
+,WP10,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",daria-bikram-pant
+,WP11,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Catalog, Search",sylvia-capri
+,WP12,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",deirdre-relaxed-fit-capri
+,WP13,default,"Default Category/Women/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",portia-capri
+,WSH01,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",fiona-fitness-short
+,WSH02,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Catalog, Search",maxima-drawstring-short
+,WSH03,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",gwen-drawstring-bike-short
+,WSH04,default,"Default Category/Women/Bottoms/Shorts",base,"Catalog, Search",artemis-running-short
+,WSH05,default,"Default Category/Women/Bottoms/Shorts,Default Category/Promotions/Women Sale,Default Category",base,"Catalog, Search",bess-yoga-short
+,WSH06,default,"Default Category/Women/Bottoms/Shorts",base,"Catalog, Search",angel-light-running-short
+,WSH07,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",echo-fit-compression-short
+,WSH08,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",sybil-running-short
+,WSH09,default,"Default Category/Women/Bottoms/Shorts",base,"Catalog, Search",mimi-all-purpose-short
+,WSH10,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",ana-running-short
+,WSH11,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",ina-compression-short
+,WSH12,default,"Default Category/Women/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",erika-running-short
+,MP03,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",geo-insulated-jogging-pant
+,MP04,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Catalog, Search",supernova-sport-pant
+,MP05,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",kratos-gym-pant
+,MP06,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",mithra-warmup-pant
+,MP07,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",thorpe-track-pant
+,MP08,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",zeppelin-yoga-pant
+,MP09,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",livingston-all-purpose-tight
+,MP10,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",orestes-yoga-pant
+,MP11,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",aether-gym-pant
+,MP12,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Catalog, Search",cronus-yoga-pant
+,MSH01,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",cobalt-cooltech-trade-fitness-short
+,MSH02,default,"Default Category/Men/Bottoms/Shorts",base,"Catalog, Search",apollo-running-short
+,MSH03,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",meteor-workout-short
+,MSH04,default,"Default Category/Men/Bottoms/Shorts",base,"Catalog, Search",torque-power-short
+,MSH05,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",hawkeye-yoga-short
+,MSH06,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",lono-yoga-short
+,MSH07,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",rapha-sports-short
+,MSH08,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Catalog, Search",orestes-fitness-short
+,MSH09,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",troy-yoga-short
+,MSH10,default,"Default Category/Men/Bottoms/Shorts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",sol-active-short
+,MSH11,default,"Default Category/Men/Bottoms/Shorts",base,"Catalog, Search",arcadio-gym-short
+,MSH12,default,"Default Category/Men/Bottoms/Shorts,Default Category/Promotions/Men Sale,Default Category",base,"Catalog, Search",pierce-gym-short
+,WH01,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",mona-pullover-hoodlie
+,WH02,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category",base,"Catalog, Search",hera-pullover-hoodie
+,WH03,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",autumn-pullie
+,WH04,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",miko-pullover-hoodie
+,WH05,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",selene-yoga-hoodie
+,WH06,default,"Default Category/Women/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",daphne-full-zip-hoodie
+,WH07,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",phoebe-zipper-sweatshirt
+,WH08,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",cassia-funnel-sweatshirt
+,WH09,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",ariel-roll-sleeve-sweatshirt
+,WH10,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",helena-hooded-fleece
+,WH11,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",eos-v-neck-hoodie
+,WH12,default,"Default Category/Women/Tops/Hoodies & Sweatshirts,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",circe-hooded-ice-fleece
+,WJ01,default,"Default Category/Women/Tops/Jackets,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",stellar-solar-jacket
+,WJ02,default,"Default Category/Women/Tops/Jackets,Default Category/Promotions/Women Sale,Default Category",base,"Catalog, Search",josie-yoga-jacket
+,WJ03,default,"Default Category/Women/Tops/Jackets",base,"Catalog, Search",augusta-pullover-jacket
+,WJ04,default,"Default Category/Women/Tops/Jackets,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",ingrid-running-jacket
+,WJ05,default,"Default Category/Women/Tops/Jackets",base,"Catalog, Search",riona-full-zip-jacket
+,WJ07,default,"Default Category/Women/Tops/Jackets",base,"Catalog, Search",inez-full-zip-jacket
+,WJ08,default,"Default Category/Women/Tops/Jackets,Default Category/Promotions/Women Sale,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",adrienne-trek-jacket
+,WJ09,default,"Default Category/Women/Tops/Jackets,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",jade-yoga-jacket
+,WJ10,default,"Default Category/Women/Tops/Jackets,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",nadia-elements-shell
+,WJ11,default,"Default Category/Women/Tops/Jackets,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",neve-studio-dance-jacket
+,WJ06,default,"Default Category/Women/Tops/Jackets,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",juno-jacket
+,WJ12,default,"Default Category/Women/Tops/Jackets,Default Category/Promotions/Women Sale,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",olivia-1-4-zip-light-jacket
+,WS02,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Collections/New Luma Yoga Collection,Default Category",base,"Catalog, Search",gabrielle-micro-sleeve-top
+,WS03,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",iris-workout-top
+,WS04,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",layla-tee
+,WS06,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",elisa-evercool-trade-tee
+,WS07,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Collections/New Luma Yoga Collection,Default Category/Collections/Erin Recommends,Default Category",base,"Catalog, Search",juliana-short-sleeve-tee
+,WS08,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Promotions/Women Sale,Default Category",base,"Catalog, Search",minerva-lumatech-trade-v-tee
+,WS09,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Promotions/Women Sale,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",tiffany-fitness-tee
+,WS10,default,"Default Category/Women/Tops/Tees,Default Category/Promotions/Tees,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",karissa-v-neck-tee
+,24-WG080,default,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,"Catalog, Search",sprite-yoga-companion-kit
+,243-MB04,default,"Default Category/Gift Cards",base,"Catalog, Search",luma-mailed-gift-card
+,243-MB09,default,"Default Category/Gift Cards",base,"Catalog, Search",luma-virtual-gift-card
+,MH01,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",chaz-kangeroo-hoodie
+,MH02,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",teton-pullover-hoodie
+,MH03,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",bruno-compete-hoodie
+,MH04,default,"Default Category/Men/Tops/Hoodies & Sweatshirts,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",frankie-sweatshirt
+,MH05,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",hollister-backyard-sweatshirt
+,MH06,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",stark-fundamental-hoodie
+,MH07,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",hero-hoodie
+,MH08,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",oslo-trek-hoodie
+,MH09,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",abominable-hoodie
+,MH10,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",mach-street-sweatshirt
+,MH11,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",grayson-crewneck-sweatshirt
+,MH12,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",ajax-full-zip-sweatshirt
+,MH13,default,"Default Category/Men/Tops/Hoodies & Sweatshirts",base,"Catalog, Search",marco-lightweight-active-hoodie
+,MJ01,default,"Default Category/Men/Tops/Jackets",base,"Catalog, Search",beaumont-summit-kit
+,MJ02,default,"Default Category/Men/Tops/Jackets",base,"Catalog, Search",hyperion-elements-jacket
+,MJ04,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",kenobi-trail-jacket
+,MJ07,default,"Default Category/Men/Tops/Jackets",base,"Catalog, Search",orion-two-tone-fitted-jacket
+,MJ08,default,"Default Category/Men/Tops/Jackets",base,"Catalog, Search",lando-gym-jacket
+,MJ09,default,"Default Category/Men/Tops/Jackets",base,"Catalog, Search",taurus-elements-shell
+,MJ10,default,"Default Category/Men/Tops/Jackets",base,"Catalog, Search",mars-heattech-trade-pullover
+,MJ11,default,"Default Category/Men/Tops/Jackets",base,"Catalog, Search",typhon-performance-fleece-lined-jacket
+,MJ06,default,"Default Category/Men/Tops/Jackets,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",jupiter-all-weather-trainer
+,MJ03,default,"Default Category/Men/Tops/Jackets",base,"Catalog, Search",montana-wind-jacket
+,MJ12,default,"Default Category/Men/Tops/Jackets",base,"Catalog, Search",proteus-fitness-jackshirt
+,MS04,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",gobi-heattec-reg-tee
+,MS05,default,"Default Category/Men/Tops/Tees,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",helios-evercool-trade-tee
+,MS09,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",ryker-lumatech-trade-tee-crew-neck
+,MS11,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",atomic-endurance-running-tee-v-neck
+,MS12,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",atomic-endurance-running-tee-crew-neck
+,MS03,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",balboa-persistence-tee
+,MS06,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",zoltan-gym-tee
+,MS01,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",aero-daily-fitness-tee
+,MS02,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",ryker-lumatech-trade-tee-v-neck
+,MS10,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",logan-heattec-reg-tee
+,MS07,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",deion-long-sleeve-evercool-trade-tee
+,MS08,default,"Default Category/Men/Tops/Tees",base,"Catalog, Search",strike-endurance-tee
+,MT01,default,"Default Category/Men/Tops/Tanks",base,"Catalog, Search",erikssen-cooltech-trade-fitness-tank
+,MT02,default,"Default Category/Men/Tops/Tanks",base,"Catalog, Search",tristan-endurance-tank
+,MT03,default,"Default Category/Men/Tops/Tanks",base,"Catalog, Search",primo-endurance-tank
+,MT04,default,"Default Category/Men/Tops/Tanks",base,"Catalog, Search",helios-endurance-tank
+,MT05,default,"Default Category/Men/Tops/Tanks",base,"Catalog, Search",rocco-gym-tank
+,MT06,default,"Default Category/Men/Tops/Tanks",base,"Catalog, Search",vulcan-weightlifting-tank
+,MT07,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",argus-all-weather-tank
+,MT08,default,"Default Category/Men/Tops/Tanks",base,"Catalog, Search",sparta-gym-tank
+,MT09,default,"Default Category/Men/Tops/Tanks",base,"Catalog, Search",sinbad-fitness-tank
+,MT10,default,"Default Category/Men/Tops/Tanks",base,"Catalog, Search",tiberius-gym-tank
+,MT11,default,"Default Category/Men/Tops/Tanks,Default Category/Collections/Eco Friendly,Default Category",base,"Catalog, Search",atlas-fitness-tank
+,MT12,default,"Default Category/Men/Tops/Tanks,Default Category/Men/Tops/Tees",base,"Catalog, Search",cassius-sparring-tank
+,MP01,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category",base,"Catalog, Search",caesar-warm-up-pant
+,MP02,default,"Default Category/Men/Bottoms/Pants,Default Category/Promotions/Pants,Default Category/Collections/Performance Fabrics,Default Category",base,"Catalog, Search",viktor-lumatech-trade-pant
