@@ -1,3 +1,13 @@
+# Version 4.0.9
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Update composer.json
+
 # Version 4.0.8
 
 ## Bugfixes

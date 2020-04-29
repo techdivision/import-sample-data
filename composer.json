@@ -1,6 +1,6 @@
 {
     "name": "techdivision/import-sample-data",
-    "description": "M2IF sample data for Magento 2 Community + Commerce Edition",
+    "description": "Pacemaker sample data for Magento 2 Community + Commerce Edition",
     "license": "OSL-3.0",
     "require": {
         "php": ">=7.1.0"
