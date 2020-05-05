@@ -1,3 +1,13 @@
+# Versino 4.0.11
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Update produt add-update csv to support image sort order
+
 # Version 4.0.10
 
 ## Bugfixes
