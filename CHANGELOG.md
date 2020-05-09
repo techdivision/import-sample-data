@@ -1,4 +1,14 @@
-# Versino 4.0.11
+# Version 4.1.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add #PAC-48 - add CSV with products and category positions
+
+# Version 4.0.11
 
 ## Bugfixes
 
