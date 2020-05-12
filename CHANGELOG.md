@@ -1,3 +1,14 @@
+# Version 4.2.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add CSV file with products with image tags for muliple store views
+* Add #PAC-49 - extend CSV with configurable products with configurable attribute positions
+
 # Version 4.1.0
 
 ## Bugfixes
@@ -16,7 +27,7 @@
 
 ## Features
 
-* Update produt add-update csv to support image sort order
+* Update product add-update csv to support image sort order
 
 # Version 4.0.10
 
