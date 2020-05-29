@@ -1,3 +1,13 @@
+# Version 4.3.0
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add #PAC-47 - CSV files for sortings
+
 # Version 4.2.0
 
 ## Bugfixes
