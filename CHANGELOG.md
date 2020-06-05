@@ -1,3 +1,23 @@
+# Version 4.3.2
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add CSV files with categories containing special chars
+
+# Version 4.3.1
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Add CSV file with product prices for muliple store views
+
 # Version 4.3.0
 
 ## Bugfixes

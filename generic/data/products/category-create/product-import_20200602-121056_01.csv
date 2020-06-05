@@ -1,0 +1,10 @@
+product_type,attribute_set_code,product_websites,tax_class_name,name,sku,is_in_stock,categories,description,short_description,price,visibility,store_view_code
+simple,Default,base,Taxable Goods,Test,12345,1,"Default Category/Meine/Deine/Produkte/Subkategorie",description,short_description,16.99,Search,
+simple,Default,base,Taxable Goods,Test,12346,1,"Default Category/""Deine/Meine""/Produkte/Subkategorie",description,short_description,16.99,Search,
+simple,Default,base,Taxable Goods,Test,12347,1,"Default Category/Meine/""""""Unsere""""""/Produkte/Subkategorie",description,short_description,16.99,Search,
+simple,Default,base,Taxable Goods,Test,12348,1,"Default Category/""""""Meine/Euere""""""/Produkte/Subkategorie",description,short_description,16.99,Search,
+simple,Default,base,Taxable Goods,Test,12349,1,"Default Category/""Deine/Meine"" Kategorie/Produkte/Subkategorie",description,short_description,16.99,Search,
+simple,Default,base,Taxable Goods,Test,12350,1,"Default Category/""Jene"" Kategorie/Produkte/Subkategorie",description,short_description,16.99,Search,
+simple,Default,base,Taxable Goods,Test,12351,1,"Default Category/""""""Diese/Jenige"""""" Kategorie/Produkte/Subkategorie",description,short_description,16.99,Search,
+simple,Default,base,Taxable Goods,Test,12352,1,"""Default Category/Test-Cat"",""Default Category/""""""Diese/Jenige"""""" Kategorie/Produkte/Subkategorie""",description,short_description,16.99,Search,
+simple,Default,base,Taxable Goods,Test,12353,1,"""Default Category/Test-Cat,1/Test-Sub-Cat"",""Default Category/""""""Diese/Jenige"""""" Kategorie/Produkte/Subkategorie""",description,short_description,16.99,Search,
