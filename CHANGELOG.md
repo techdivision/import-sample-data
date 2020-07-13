@@ -1,3 +1,13 @@
+# Version 4.3.2
+
+## Bugfixes
+
+* None
+
+## Features
+
+* Remove values from column `product_type` for product CSV sample file for multiple storeviews
+
 # Version 4.3.1
 
 ## Bugfixes
