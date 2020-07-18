@@ -1,3 +1,14 @@
+# Version 4.3.3
+
+## Bugfixes
+
+* Add mandatory tax class name to product CSV
+
+## Features
+
+* Add composer.json for Magento Community 2.4.0-beta1
+* Add schema for Magento Community 2.3.5 and 2.4.0-beta1
+
 # Version 4.3.2
 
 ## Bugfixes
