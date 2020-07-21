@@ -1,3 +1,13 @@
+# Version 4.3.4
+
+## Bugfixes
+
+* Fixed mandatory tax class name in product CSV for replace operation
+
+## Features
+
+* None
+
 # Version 4.3.3
 
 ## Bugfixes
