@@ -1,0 +1,181 @@
+sku,store_view_code,attribute_set_code,product_type,categories,product_websites,name,description,short_description,weight,product_online,tax_class_name,visibility,price,special_price,special_price_from_date,special_price_to_date,url_key,meta_title,meta_keywords,meta_description,base_image,base_image_label,small_image,small_image_label,thumbnail_image,thumbnail_image_label,swatch_image,swatch_image_label,created_at,updated_at,new_from_date,new_to_date,display_product_options_in,map_price,msrp_price,map_enabled,gift_message_available,custom_design,custom_design_from,custom_design_to,custom_layout_update,page_layout,product_options_container,msrp_display_actual_price_type,country_of_manufacture,additional_attributes,qty,out_of_stock_qty,use_config_min_qty,is_qty_decimal,allow_backorders,use_config_backorders,min_cart_qty,use_config_min_sale_qty,max_cart_qty,use_config_max_sale_qty,is_in_stock,notify_on_stock_below,use_config_notify_stock_qty,manage_stock,use_config_manage_stock,use_config_qty_increments,qty_increments,use_config_enable_qty_inc,enable_qty_increments,is_decimal_divided,website_id,deferred_stock_update,use_config_deferred_stock_update,related_skus,related_position,crosssell_skus,crosssell_position,upsell_skus,upsell_position,additional_images,additional_image_labels,hide_from_product_page,bundle_price_type,bundle_sku_type,bundle_price_view,bundle_weight_type,bundle_values,bundle_shipment_type,configurable_variations,configurable_variation_labels,associated_skus
+24-MB01,,Bag,simple,"Default Category/Gear,Default Category/Gear/Bags",base,Joust Duffle Bag,"<p>The sporty Joust Duffle Bag can't be beat - not in the gym, not on the luggage carousel, not anywhere. Big enough to haul a basketball or soccer ball and some sneakers with plenty of room to spare, it's ideal for athletes with places to go.<p>
+<ul>
+<li>Dual top handles.</li>
+<li>Adjustable shoulder strap.</li>
+<li>Full-length zipper.</li>
+<li>L 29"" x W 13"" x H 11"".</li>
+</ul>",,,1,Taxable Goods,"Catalog, Search",36,33,,,joust-duffle-bag,,,,/m/b/mb01-blue-0.jpg,,/m/b/mb01-blue-0.jpg,,/m/b/mb01-blue-0.jpg,,,,"10/21/16, 9:10 AM","10/24/16, 9:10 AM",,,Block after Info Column,,100,,,,,,,,,,,"activity=Gym|Hiking|Trail|Urban,erin_recommends=Yes,features_bags=Audio Pocket|Waterproof|Lightweight|Laptop Sleeve,material=Canvas|Cotton|Mesh|Polyester,sale=Yes,strap_bags=Adjustable|Cross Body|Padded|Shoulder|Single,style_bags=Messenger|Exercise|Tote",100,0,1,0,0,1,1,1,0,1,1,,1,0,1,1,0,1,0,0,0,0,1,"24-MB05,24-MB03,24-MB04","2,3,1","24-WB05,24-WB02,24-WB01","3,2,1","24-UB02,24-MB03,24-MB06",",,",/m/b/mb01-blue-0.jpg,Image,,,,,,,,,,
+24-MB01,de_de,Bag,,,,Joust Seesack,"<p>Der sportliche Joust Seesack can't be beat - not in the gym, not on the luggage carousel, not anywhere. Big enough to haul a basketball or soccer ball and some sneakers with plenty of room to spare, it's ideal for athletes with places to go.<p>
+<ul>
+<li>Dual top handles.</li>
+<li>Adjustable shoulder strap.</li>
+<li>Full-length zipper.</li>
+<li>L 29"" x W 13"" x H 11"".</li>
+</ul>",,,,,Catalog,,,,,joust-seesaeckchen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-MB01,en_us,Bag,,,,Joust Duffle Bag,"<p>The sporty Joust Duffle Bag can't be beat - not in the gym, not on the luggage carousel, not anywhere. Big enough to haul a basketball or soccer ball and some sneakers with plenty of room to spare, it's ideal for athletes with places to go.<p>
+<ul>
+<li>Dual top handles.</li>
+<li>Adjustable shoulder strap.</li>
+<li>Full-length zipper.</li>
+<li>L 29"" x W 13"" x H 11"".</li>
+</ul>",,,,,Not Visible Individually,,,,,joust-duffle-bag,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-MB04,,Bag,simple,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections",base,Strive Shoulder Pack,"<p>Convenience is next to nothing when your day is crammed with action. So whether you're heading to class, gym, or the unbeaten path, make sure you've got your Strive Shoulder Pack stuffed with all your essentials, and extras as well.</p>
+<ul>
+<li>Zippered main compartment.</li>
+<li>Front zippered pocket.</li>
+<li>Side mesh pocket.</li>
+<li>Cell phone pocket on strap.</li>
+<li>Adjustable shoulder strap and top carry handle.</li>
+</ul>",,,1,Taxable Goods,"Catalog, Search",32,32,"10/21/16, 2:10 AM",,strive-shoulder-pack,,,,/m/b/mb04-black-0.jpg,,/m/b/mb04-black-0.jpg,,/m/b/mb04-black-0.jpg,,,,"10/21/16, 9:10 AM","10/21/16, 9:10 AM","10/21/16, 2:10 AM",,Block after Info Column,,,,,,"10/21/16, 2:10 AM",,,,,,,"activity=Gym|Hiking|Trail|Urban,erin_recommends=Yes,features_bags=Audio Pocket|Waterproof|Lightweight|Laptop Sleeve,material=Canvas|Cotton|Mesh|Polyester,sale=Yes,strap_bags=Adjustable|Cross Body|Padded|Shoulder|Single,style_bags=Messenger|Exercise|Tote",100,0,1,0,0,1,1,1,0,1,1,,1,0,1,1,0,1,0,0,0,0,1,,,,,,,"/m/b/mb04-black-0.jpg,/m/b/mb04-black-0_alt1.jpg","Image,Image",,,,,,,,,,
+24-MB04,de_de,Bag,,,,Strive Schultertasche,"<p>Bequemlichkeit ist so gut wie nichts, wenn Ihr Tag is crammed with action. So whether you're heading to class, gym, or the unbeaten path, make sure you've got your Strive Shoulder Pack stuffed with all your essentials, and extras as well.</p>
+<ul>
+<li>Zippered main compartment.</li>
+<li>Front zippered pocket.</li>
+<li>Side mesh pocket.</li>
+<li>Cell phone pocket on strap.</li>
+<li>Adjustable shoulder strap and top carry handle.</li>
+</ul>",,,,,,,,,,strive-schultertasche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bild,Bild",,,,,,,,,,
+24-MB04,en_us,Bag,,,,Strive Shoulder Pack,"<p>Convenience is next to nothing when your day is crammed with action. So whether you're heading to class, gym, or the unbeaten path, make sure you've got your Strive Shoulder Pack stuffed with all your essentials, and extras as well.</p>
+<ul>
+<li>Zippered main compartment.</li>
+<li>Front zippered pocket.</li>
+<li>Side mesh pocket.</li>
+<li>Cell phone pocket on strap.</li>
+<li>Adjustable shoulder strap and top carry handle.</li>
+</ul>",,,,,,,,,,strive-shoulder-pack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Imagee,Imagee",,,,,,,,,,
+24-MB03,,Bag,simple,"Default Category/Gear,Default Category/Gear/Bags",base,Crown Summit Backpack,"<p>The Crown Summit Backpack is equally at home in a gym locker, study cube or a pup tent, so be sure yours is packed with books, a bag lunch, water bottles, yoga block, laptop, or whatever else you want in hand. Rugged enough for day hikes and camping trips, it has two large zippered compartments and padded, adjustable shoulder straps.</p>
+<ul>
+<li>Top handle.</li>
+<li>Grommet holes.</li>
+<li>Two-way zippers.</li>
+<li>H 20"" x W 14"" x D 12"".</li>
+<li>Weight: 2 lbs, 8 oz. Volume: 29 L.</li>
+<ul>",,,1,Taxable Goods,"Catalog, Search",38,,,,crown-summit-backpack,,,,/m/b/mb03-black-0.jpg,,/m/b/mb03-black-0.jpg,,/m/b/mb03-black-0.jpg,,,,"10/21/16, 9:10 AM","10/21/16, 9:10 AM",,,Block after Info Column,,,,,,,,,,,,,"activity=Gym|Hiking|Overnight|School|Trail|Travel|Urban,features_bags=Audio Pocket|Waterproof|Lightweight|Reflective|Laptop Sleeve,material=Nylon|Polyester,strap_bags=Adjustable|Double|Padded,style_bags=Backpack",100,0,1,0,0,1,1,1,0,1,1,,1,0,1,1,0,1,0,0,0,0,1,,,,,,,"/m/b/mb03-black-0.jpg,/m/b/mb03-black-0_alt1.jpg","Image,Image",,,,,,,,,,
+24-MB03,de_de,Bag,,,,Crown Summit Rucksack,"<p>Der Crown Summit Rucksack is equally at home in a gym locker, study cube or a pup tent, so be sure yours is packed with books, a bag lunch, water bottles, yoga block, laptop, or whatever else you want in hand. Rugged enough for day hikes and camping trips, it has two large zippered compartments and padded, adjustable shoulder straps.</p>
+<ul>
+<li>Top handle.</li>
+<li>Grommet holes.</li>
+<li>Two-way zippers.</li>
+<li>H 20"" x W 14"" x D 12"".</li>
+<li>Weight: 2 lbs, 8 oz. Volume: 29 L.</li>
+<ul>",,,,,,,,,,crown-summit-rucksack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-MB03,en_us,Bag,,,,Crown Summit Backpack,"<p>The Crown Summit Backpack is equally at home in a gym locker, study cube or a pup tent, so be sure yours is packed with books, a bag lunch, water bottles, yoga block, laptop, or whatever else you want in hand. Rugged enough for day hikes and camping trips, it has two large zippered compartments and padded, adjustable shoulder straps.</p>
+<ul>
+<li>Top handle.</li>
+<li>Grommet holes.</li>
+<li>Two-way zippers.</li>
+<li>H 20"" x W 14"" x D 12"".</li>
+<li>Weight: 2 lbs, 8 oz. Volume: 29 L.</li>
+<ul>",,,,,,,,,,crown-summit-backpack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-MB05,,Bag,simple,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,Wayfarer Messenger Bag,"<p>Perfect for class, work or the gym, the Wayfarer Messenger Bag is packed with pockets. The dual-buckle flap closure reveals an organizational panel, and the roomy main compartment has spaces for your laptop and a change of clothes. An adjustable shoulder strap and easy-grip handle promise easy carrying.</p>
+<ul>
+<li>Multiple internal zip pockets.</li>
+<li>Made of durable nylon.</li>
+</ul>",,,1,Taxable Goods,"Catalog, Search",45,,,,wayfarer-messenger-bag,,,,/m/b/mb05-black-0.jpg,,/m/b/mb05-black-0.jpg,,/m/b/mb05-black-0.jpg,,,,"10/21/16, 9:10 AM","10/21/16, 9:10 AM",,,Block after Info Column,,,,,,,,,,,,,"activity=Gym|Overnight|Travel,features_bags=Waterproof|Lightweight|Reflective|Laptop Sleeve|Lockable,material=Nylon|Polyester,new=Yes,strap_bags=Adjustable|Detachable|Double|Padded|Shoulder,style_bags=Messenger|Laptop",100,0,1,0,0,1,1,1,0,1,1,,1,0,1,1,0,1,0,0,0,0,1,,,,,,,/m/b/mb05-black-0.jpg,Image,,,,,,,,,,
+24-MB05,de_de,Bag,,,,Wayfarer Messenger Tasche,"<p>Perfekt für den Unterricht, die Arbeit oder das Fitnessstudio, die Wayfarer Messenger Bag is packed with pockets. The dual-buckle flap closure reveals an organizational panel, and the roomy main compartment has spaces for your laptop and a change of clothes. An adjustable shoulder strap and easy-grip handle promise easy carrying.</p>
+<ul>
+<li>Multiple internal zip pockets.</li>
+<li>Made of durable nylon.</li>
+</ul>",,,,,,,,,,wayfarer-messenger-tasche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-MB05,en_us,Bag,,,,Wayfarer Messenger Bag,"<p>Perfect for class, work or the gym, the Wayfarer Messenger Bag is packed with pockets. The dual-buckle flap closure reveals an organizational panel, and the roomy main compartment has spaces for your laptop and a change of clothes. An adjustable shoulder strap and easy-grip handle promise easy carrying.</p>
+<ul>
+<li>Multiple internal zip pockets.</li>
+<li>Made of durable nylon.</li>
+</ul>",,,,,,,,,,wayfarer-messenger-bag,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-MB06,,Bag,simple,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections,Default Category/Collections/New Luma Yoga Collection",base,Rival Field Messenger,"<p>The Rival Field Messenger packs all your campus, studio or trail essentials inside a unique design of soft, textured leather - with loads of character to spare. Two exterior pockets keep all your smaller items handy, and the roomy interior offers even more space.</p>
+<ul>
+<li>Leather construction.</li>
+<li>Adjustable fabric carry strap.</li>
+<li>Dimensions: 18"" x 10"" x 4"".</li>
+</ul>",,,1,Taxable Goods,"Catalog, Search",45,,,,rival-field-messenger,,,,/m/b/mb06-gray-0.jpg,,/m/b/mb06-gray-0.jpg,,/m/b/mb06-gray-0.jpg,,,,"10/21/16, 9:10 AM","10/21/16, 9:10 AM",,,Block after Info Column,,,,,,,,,,,,,"activity=Travel|Urban,features_bags=Flapover|Lightweight|Laptop Sleeve,material=Leather|Nylon|Suede,new=Yes,strap_bags=Adjustable|Cross Body|Shoulder|Single,style_bags=Messenger|Laptop|Exercise",100,0,1,0,0,1,1,1,0,1,1,,1,0,1,1,0,1,0,0,0,0,1,,,,,,,/m/b/mb06-gray-0.jpg,Image,,,,,,,,,,
+24-MB06,de_de,Bag,,,,Rival Field Botentasche,"<p>Der Rival Field Botentasche packt Ihren gesamten Campus, Ihr Studio oder Ihre Strecke  essentials inside a unique design of soft, textured leather - with loads of character to spare. Two exterior pockets keep all your smaller items handy, and the roomy interior offers even more space.</p>
+<ul>
+<li>Leather construction.</li>
+<li>Adjustable fabric carry strap.</li>
+<li>Dimensions: 18"" x 10"" x 4"".</li>
+</ul>",,,,,,,,,,rival-field-botentasche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-MB06,en_us,Bag,,,,Rival Field Messenger,"<p>The Rival Field Messenger packs all your campus, studio or trail essentials inside a unique design of soft, textured leather - with loads of character to spare. Two exterior pockets keep all your smaller items handy, and the roomy interior offers even more space.</p>
+<ul>
+<li>Leather construction.</li>
+<li>Adjustable fabric carry strap.</li>
+<li>Dimensions: 18"" x 10"" x 4"".</li>
+</ul>",,,,,,,,,,rival-field-messenger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-WB01,,Bag,simple,"Default Category/Gear,Default Category/Gear/Bags",base,Voyage Yoga Bag,"<p>Everything you need for a trip to the gym will fit inside this surprisingly spacious Voyage Yoga Bag. Stock it with a water bottle, change of clothes, pair of shoes, and even a few beauty products. Fits inside a locker and zips shut for security.</p>
+<ul>
+<li>Slip pocket on front.</li>
+<li>Contrast piping.</li>
+<li>Durable nylon construction.</li>
+</ul>",,,1,Taxable Goods,"Catalog, Search",32,,,,voyage-yoga-bag,,,,/w/b/wb01-black-0.jpg,,/w/b/wb01-black-0.jpg,,/w/b/wb01-black-0.jpg,,,,"10/21/16, 9:10 AM","10/21/16, 9:10 AM",,,Block after Info Column,,,,,,,,,,,,,"activity=Yoga|Gym,features_bags=Waterproof|Reflective|Lockable,material=Nylon|Polyester,strap_bags=Double|Shoulder,style_bags=Exercise|Tote",100,0,1,0,0,1,1,1,0,1,1,,1,0,1,1,0,1,0,0,0,0,1,,,,,,,/w/b/wb01-black-0.jpg,Image,,,,,,,,,,
+24-WB01,de_de,Bag,,,,Voyage Yoga Tasche,"<p>Alles, was Sie für einen Ausflug ins Fitnessstudio benötigen, passt in dieses surprisingly spacious Voyage Yoga Bag. Stock it with a water bottle, change of clothes, pair of shoes, and even a few beauty products. Fits inside a locker and zips shut for security.</p>
+<ul>
+<li>Slip pocket on front.</li>
+<li>Contrast piping.</li>
+<li>Durable nylon construction.</li>
+</ul>",,,,,,,,,,voyage-yoga-tasche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-WB01,en_us,Bag,,,,Voyage Yoga Bag,"<p>Everything you need for a trip to the gym will fit inside this surprisingly spacious Voyage Yoga Bag. Stock it with a water bottle, change of clothes, pair of shoes, and even a few beauty products. Fits inside a locker and zips shut for security.</p>
+<ul>
+<li>Slip pocket on front.</li>
+<li>Contrast piping.</li>
+<li>Durable nylon construction.</li>
+</ul>",,,,,,,,,,voyage-yoga-bag,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-WB02,,Bag,simple,"Default Category/Gear,Default Category/Gear/Bags",base,Compete Track Tote,"<p>The Compete Track Tote holds a host of exercise supplies with ease. Stash your towel, jacket and street shoes inside. Tuck water bottles in easy-access external spaces. Perfect for trips to gym or yoga studio, with dual top handles for convenience to and from.<p>
+<ul>
+<li>Two-way zippers.</li>
+<li>Contrast detailing.</li>
+<li>W 22.0"" x H 17"" x D 10"".</li>
+</ul>",,,1,Taxable Goods,"Catalog, Search",32,,,,compete-track-tote,,,,/w/b/wb02-green-0.jpg,,/w/b/wb02-green-0.jpg,,/w/b/wb02-green-0.jpg,,,,"10/21/16, 9:10 AM","10/21/16, 9:10 AM",,,Block after Info Column,,,,,,,,,,,,,"activity=Yoga|Gym|School,features_bags=Waterproof|Lightweight|Reflective,material=Nylon|Polyester|Rayon,strap_bags=Adjustable|Double|Shoulder,style_bags=Exercise|Tote",100,0,1,0,0,1,1,1,0,1,1,,1,0,1,1,0,1,0,0,0,0,1,,,,,,,/w/b/wb02-green-0.jpg,Image,,,,,,,,,,
+24-WB02,de_de,Bag,,,,Compete Track Schultertasche,"<p>Das Compete Track Schultertasche enthält eine Vielzahl von Übungszubehör s with ease. Stash your towel, jacket and street shoes inside. Tuck water bottles in easy-access external spaces. Perfect for trips to gym or yoga studio, with dual top handles for convenience to and from.<p>
+<ul>
+<li>Two-way zippers.</li>
+<li>Contrast detailing.</li>
+<li>W 22.0"" x H 17"" x D 10"".</li>
+</ul>",,,,,,,,,,compete-track-schultertasche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-WB02,en_us,Bag,,,,Compete Track Tote,"<p>The Compete Track Tote holds a host of exercise supplies with ease. Stash your towel, jacket and street shoes inside. Tuck water bottles in easy-access external spaces. Perfect for trips to gym or yoga studio, with dual top handles for convenience to and from.<p>
+<ul>
+<li>Two-way zippers.</li>
+<li>Contrast detailing.</li>
+<li>W 22.0"" x H 17"" x D 10"".</li>
+</ul>",,,,,,,,,,compete-track-tote,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-WB05,,Bag,simple,"Default Category/Gear,Default Category/Gear/Bags,Default Category/Collections",base,Savvy Shoulder Tote,"<p>Powerwalking to the gym or strolling to the local coffeehouse, the Savvy Shoulder Tote lets you stash your essentials in sporty style! A top-loading compartment provides quick and easy access to larger items, while zippered pockets on the front and side hold cash, credit cards and phone.</p>
+<ul>
+<li>Water-resistant shell.</li>
+<li>Water bottle pocket.</li>
+<li>Padded, articulating shoulder strap.</li>
+<li>Dimensions: W 21"" x H 15"" x D 10"".</li>
+</ul>",,,1,Taxable Goods,"Catalog, Search",32,24,"10/21/16, 2:10 AM",,savvy-shoulder-tote,,,,/w/b/wb05-red-0.jpg,,/w/b/wb05-red-0.jpg,,/w/b/wb05-red-0.jpg,,,,"10/21/16, 9:10 AM","10/21/16, 9:10 AM","10/21/16, 2:10 AM",,Block after Info Column,,,,,,"10/21/16, 2:10 AM",,,,,,,"activity=Yoga|Gym,erin_recommends=Yes,features_bags=Audio Pocket|Lightweight,sale=Yes,strap_bags=Adjustable|Cross Body|Shoulder|Single,style_bags=Exercise|Tote",100,0,1,0,0,1,1,1,0,1,1,,1,0,1,1,0,1,0,0,0,0,1,,,,,,,/w/b/wb05-red-0.jpg,Image,,,,,,,,,,
+24-WB05,de_de,Bag,,,,Savvy Schultertasche,"<p>Powerwalking zum Fitnessstudio oder Spaziergang zum lokalen Kaffeehaus, the Savvy Shoulder Tote lets you stash your essentials in sporty style! A top-loading compartment provides quick and easy access to larger items, while zippered pockets on the front and side hold cash, credit cards and phone.</p>
+<ul>
+<li>Water-resistant shell.</li>
+<li>Water bottle pocket.</li>
+<li>Padded, articulating shoulder strap.</li>
+<li>Dimensions: W 21"" x H 15"" x D 10"".</li>
+</ul>",,,,,,,,,,savvy-schultertasche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-WB05,en_us,Bag,,,,Savvy Shoulder Tote,"<p>Powerwalking to the gym or strolling to the local coffeehouse, the Savvy Shoulder Tote lets you stash your essentials in sporty style! A top-loading compartment provides quick and easy access to larger items, while zippered pockets on the front and side hold cash, credit cards and phone.</p>
+<ul>
+<li>Water-resistant shell.</li>
+<li>Water bottle pocket.</li>
+<li>Padded, articulating shoulder strap.</li>
+<li>Dimensions: W 21"" x H 15"" x D 10"".</li>
+</ul>",,,,,,,,,,savvy-shoulder-tote,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-UB02,,Bag,simple,"Default Category/Gear,Default Category/Gear/Bags",base,Impulse Duffle,"<p>Good for beach trips, track meets, yoga retreats and more, the Impulse Duffle is the companion you'll want at your side. A large U-shaped opening makes packing a hassle-free affair, while a zippered interior pocket keeps jewelry and other small valuables safely tucked out of sight.</p>
+<ul>
+<li>Wheeled.</li>
+<li>Dual carry handles.</li>
+<li>Retractable top handle.</li>
+<li>W 14"" x H 26"" x D 11"".</li>
+</ul>",,,1,Taxable Goods,"Catalog, Search",74,,,,impulse-duffle,,,,/u/b/ub02-black-0.jpg,,/u/b/ub02-black-0.jpg,,/u/b/ub02-black-0.jpg,,,,"10/21/16, 9:10 AM","10/21/16, 9:10 AM",,,Block after Info Column,,,,,,,,,,,,,"activity=Gym|Overnight|Travel,features_bags=Wheeled|TSA Approved|Lockable,material=Nylon|Polyester,strap_bags=Adjustable|Double|Telescoping,style_bags=Luggage|Duffel",100,0,1,0,0,1,1,1,0,1,1,,1,0,1,1,0,1,0,0,0,0,1,,,,,,,/u/b/ub02-black-0.jpg,Image,,,,,,,,,,
+24-UB02,de_de,Bag,,,,Impulse Sack,"<p>Gut für Strandausflüge, Track-Meetings, Yoga-Retreats und mehr, the Impulse Duffle is the companion you'll want at your side. A large U-shaped opening makes packing a hassle-free affair, while a zippered interior pocket keeps jewelry and other small valuables safely tucked out of sight.</p>
+<ul>
+<li>Wheeled.</li>
+<li>Dual carry handles.</li>
+<li>Retractable top handle.</li>
+<li>W 14"" x H 26"" x D 11"".</li>
+</ul>",,,,,,,,,,impulse-sack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24-UB02,en_us,Bag,,,,Impulse Duffle,"<p>Good for beach trips, track meets, yoga retreats and more, the Impulse Duffle is the companion you'll want at your side. A large U-shaped opening makes packing a hassle-free affair, while a zippered interior pocket keeps jewelry and other small valuables safely tucked out of sight.</p>
+<ul>
+<li>Wheeled.</li>
+<li>Dual carry handles.</li>
+<li>Retractable top handle.</li>
+<li>W 14"" x H 26"" x D 11"".</li>
+</ul>",,,,,,,,,,impulse-duffle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

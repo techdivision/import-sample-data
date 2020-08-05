@@ -1,0 +1,66 @@
+{
+    "name": "magento/project-enterprise-edition",
+    "description": "eCommerce Platform for Growth (Enterprise Edition)",
+    "type": "project",
+    "version": "2.2.10",
+    "license": [
+        "proprietary"
+    ],
+    "require": {
+        "magento/product-enterprise-edition": "2.2.10",
+        "techdivision/import-cli-simple": "3.8.*",
+        "composer/composer": "@alpha"
+    },
+    "require-dev": {
+        "allure-framework/allure-phpunit": "~1.2.0",
+        "magento/magento2-functional-testing-framework": "2.4.5",
+        "phpunit/phpunit": "~6.2.0",
+        "squizlabs/php_codesniffer": "3.2.2",
+        "phpmd/phpmd": "@stable",
+        "pdepend/pdepend": "2.5.2",
+        "friendsofphp/php-cs-fixer": "~2.2.1",
+        "lusitanian/oauth": "~0.8.10",
+        "sebastian/phpcpd": "2.0.4",
+        "facebook/webdriver": "1.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+            "Magento\\Setup\\": "setup/src/Magento/Setup/",
+            "Magento\\": "app/code/Magento/"
+        },
+        "psr-0": {
+            "": [
+                "app/code/"
+            ]
+        },
+        "files": [
+            "app/etc/NonComposerComponentRegistration.php"
+        ],
+        "exclude-from-classmap": [
+            "**/dev/**",
+            "**/update/**",
+            "**/Test/**"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Magento\\Sniffs\\": "dev/tests/static/framework/Magento/Sniffs/",
+            "Magento\\Tools\\": "dev/tools/Magento/Tools/",
+            "Magento\\Tools\\Sanity\\": "dev/build/publication/sanity/Magento/Tools/Sanity/",
+            "Magento\\TestFramework\\Inspection\\": "dev/tests/static/framework/Magento/TestFramework/Inspection/",
+            "Magento\\TestFramework\\Utility\\": "dev/tests/static/framework/Magento/TestFramework/Utility/",
+            "Magento\\ToolkitFramework\\": "dev/tools/performance-toolkit/framework/Magento/ToolkitFramework/"
+        }
+    },
+    "minimum-stability": "stable",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        }
+    ],
+    "extra": {
+        "magento-force": "override"
+    }
+}

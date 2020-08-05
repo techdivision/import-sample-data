@@ -1,0 +1,29 @@
+original_data,attribute_set_code,store_view_code,path,name,url_key,is_active,is_anchor,include_in_menu
+,Default,,"Default Category/""""""Diese/Jenige"""" Kategorie""","""Diese/Jenige"" Kategorie",,1,1,1
+,Default,,"Default Category/""""""Diese/Jenige"""" Kategorie""/Produkte",Produkte,,1,1,1
+,Default,,"Default Category/""""""Diese/Jenige"""" Kategorie""/Produkte/Subkategorie",Subkategorie,,1,1,1
+,Default,,"Default Category/""""""Meine/Euere""""""","""Meine/Euere""",,1,1,1
+,Default,,"Default Category/""""""Meine/Euere""""""/Produkte",Produkte,,1,1,1
+,Default,,"Default Category/""""""Meine/Euere""""""/Produkte/Subkategorie",Subkategorie,,1,1,1
+,Default,,"Default Category/""Deine/Meine Kategorie""","Deine/Meine Kategorie",,1,1,1
+,Default,,"Default Category/""Deine/Meine Kategorie""/Produkte",Produkte,,1,1,1
+,Default,,"Default Category/""Deine/Meine Kategorie""/Produkte/Subkategorie",Subkategorie,,1,1,1
+,Default,,"Default Category/""Deine/Meine""",Deine/Meine,,1,1,1
+,Default,,"Default Category/""Deine/Meine""/Produkte",Produkte,,1,1,1
+,Default,,"Default Category/""Deine/Meine""/Produkte/Subkategorie",Subkategorie,,1,1,1
+,Default,,"Default Category/""Diese/Jenige"""" Kategorie""","Diese/Jenige"" Kategorie",,1,1,1
+,Default,,"Default Category/""Diese/Jenige"""" Kategorie""/Produkte",Produkte,,1,1,1
+,Default,,"Default Category/""Diese/Jenige"""" Kategorie""/Produkte/""Subkategorie""""""","Subkategorie""",,1,1,1
+,Default,,"Default Category/Jene Kategorie","Jene Kategorie",,1,1,1
+,Default,,"Default Category/Jene Kategorie/Produkte",Produkte,,1,1,1
+,Default,,"Default Category/Jene Kategorie/Produkte/Subkategorie",Subkategorie,,1,1,1
+,Default,,"Default Category/Meine",Meine,,1,1,1
+,Default,,"Default Category/Meine/""""""Unsere""""""","""Unsere""",,1,1,1
+,Default,,"Default Category/Meine/""""""Unsere""""""/Produkte",Produkte,,1,1,1
+,Default,,"Default Category/Meine/""""""Unsere""""""/Produkte/Subkategorie",Subkategorie,,1,1,1
+,Default,,"Default Category/Meine/Deine",Deine,,1,1,1
+,Default,,"Default Category/Meine/Deine/Produkte",Produkte,,1,1,1
+,Default,,"Default Category/Meine/Deine/Produkte/Subkategorie",Subkategorie,,1,1,1
+,Default,,"Default Category/Test-Cat",Test-Cat,,1,1,1
+,Default,,"Default Category/Test-Cat,1","Test-Cat,1",,1,1,1
+,Default,,"Default Category/Test-Cat,1/Test-Sub-Cat",Test-Sub-Cat,,1,1,1
