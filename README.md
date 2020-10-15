@@ -1,3 +1,3 @@
-# M2IF - Sample Data
+# Pacemaker - Sample Data
 
-Please visit the M2IF [website](https://m2if.com) for documentation and additional information
+Please visit the Pacemaker [website](https://pacemaker.techdivision.com) or our [documentation](https://docs.met.tdintern.de/pacemaker/1.3/) for additional information
