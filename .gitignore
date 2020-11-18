@@ -2,3 +2,5 @@ generic/media/catalog/product/a
 generic/media/catalog/product/cache
 generic/data/products/inventory-empty
 generic/data/products/inventory-missing-columns
+.buildpath
+.project
