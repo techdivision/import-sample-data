@@ -1,3 +1,13 @@
+# Version 4.3.5
+
+## Bugfixes
+
+* Sample data with position in category import
+
+## Features
+
+* None
+
 # Version 4.3.4
 
 ## Bugfixes
