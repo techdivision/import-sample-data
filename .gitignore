@@ -4,3 +4,4 @@ generic/data/products/inventory-empty
 generic/data/products/inventory-missing-columns
 .buildpath
 .project
+.DS_Store
